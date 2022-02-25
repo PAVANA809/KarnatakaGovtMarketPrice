@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Mexican / ಮೆಕ್ಸಿಕನ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=25&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Mexican / ಮೆಕ್ಸಿಕನ್"
+    },
+    {
+        "name": "Red / ಕೆಂಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=71&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Red / ಕೆಂಪು"
+    },
+    {
+        "name": "White / ಬಿಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=72&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=White / ಬಿಳಿ"
+    },
+    {
+        "name": "H.D. / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=73&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=H.D. / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=76&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Medium / ಸಾಧಾರಣ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=80&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Medium / ಸಾಧಾರಣ"
+    },
+    {
+        "name": "Mill Wheat / ಗಿರಣಿ ಗೋಧಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=82&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Mill Wheat / ಗಿರಣಿ ಗೋಧಿ"
+    },
+    {
+        "name": "Sharabathi / ಶರಬತಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=84&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Sharabathi / ಶರಬತಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=999&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Paddy / ಭತ್ತ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=2&VarCode=1&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy / ಭತ್ತ-1"
+    },
+    {
+        "name": "Paddy / ಭತ್ತ-1 (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=1&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy / ಭತ್ತ-1"
+    },
+    {
+        "name": "I.R. 64 / ಐ.ಆರ್.64 (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=12&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=I.R. 64 / ಐ.ಆರ್.64"
+    },
+    {
+        "name": "Sanna Bhatta / ಸಣ್ಣ ಭತ್ತ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=61&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sanna Bhatta / ಸಣ್ಣ ಭತ್ತ"
+    },
+    {
+        "name": "Paddy Sona / ಭತ್ತ ಸೋನ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=62&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy Sona / ಭತ್ತ ಸೋನ"
+    },
+    {
+        "name": "Sona Mahsuri / ಸೋನ ಮಸೂರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=74&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Mahsuri / ಸೋನ ಮಸೂರಿ"
+    },
+    {
+        "name": "Paddy Medium Variety / ಸಾಧಾರಣ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=117&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy Medium Variety / ಸಾಧಾರಣ"
+    },
+    {
+        "name": "Sona Masuri Old  / ಹಳೇ ಸೋನ ಮಸೂರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=250&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Masuri Old  / ಹಳೇ ಸೋನ ಮಸೂರಿ"
+    },
+    {
+        "name": "Sona Masuri New / ಹೊಸ ಸೋನ ಮಸೂರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=251&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Masuri New / ಹೊಸ ಸೋನ ಮಸೂರಿ"
+    },
+    {
+        "name": "Paddy RNR New / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹೊಸದು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=302&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy RNR New / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹೊಸದು"
+    },
+    {
+        "name": "Paddy RNR Old / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹಳೆಯದು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=303&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy RNR Old / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹಳೆಯದು"
+    },
+    {
+        "name": "Rice / ಅಕ್ಕಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=3&VarCode=43&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Coarse / ದಪ್ಪ"
+    },
+    {
+        "name": "Coarse / ದಪ್ಪ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=43&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Coarse / ದಪ್ಪ"
+    },
+    {
+        "name": "CR 1009 (Coarse) Boiled / ಸಿ.ಆರ್.1009 (ಸಾಧಾರಣ ) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=45&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=CR 1009 (Coarse) Boiled / ಸಿ.ಆರ್.1009 (ಸಾಧಾರಣ )"
+    },
+    {
+        "name": "Fine / ಉತ್ತಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=71&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Fine / ಉತ್ತಮ"
+    },
+    {
+        "name": "Medium / ಮಧ್ಯಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=121&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Medium / ಮಧ್ಯಮ"
+    },
+    {
+        "name": "I. R. - 64 / ಐ.ಆರ್.64 (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=156&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=I. R. - 64 / ಐ.ಆರ್.64"
+    },
+    {
+        "name": "Sona / ಸೋನ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=197&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Sona / ಸೋನ"
+    },
+    {
+        "name": "Kattasambar / ಕಟ್ಟಾ ಸಾಂಬಾರ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=245&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Kattasambar / ಕಟ್ಟಾ ಸಾಂಬಾರ್"
+    },
+    {
+        "name": "Broken Rice / ನುಚ್ಚಕ್ಕಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=247&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Broken Rice / ನುಚ್ಚಕ್ಕಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=999&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Maize / ಮೆಕ್ಕೆಜೋಳ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=4&VarCode=8&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=8&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=9&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Yellow / ಹಳದಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=18&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Yellow / ಹಳದಿ"
+    },
+    {
+        "name": "Sweet Corn (For Biscuits) / ಸ್ವೀಟ್ ಕಾರನ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=36&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Sweet Corn (For Biscuits) / ಸ್ವೀಟ್ ಕಾರನ್"
+    },
+    {
+        "name": "Jowar / ಜೋಳ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=5&VarCode=2&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar ( White) / ಜೋಳ ಬಿಳಿ"
+    },
+    {
+        "name": "Jowar ( White) / ಜೋಳ ಬಿಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=2&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar ( White) / ಜೋಳ ಬಿಳಿ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=4&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Jowar Hybrid / ಹೈಬ್ರಿಡ್ ಜೋಳ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=7&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar Hybrid / ಹೈಬ್ರಿಡ್ ಜೋಳ"
+    },
+    {
+        "name": "Hybrid / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=19&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Bajra / ಸಜ್ಜೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=28&VarCode=8&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Hybrid / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=8&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=10&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=999&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Ragi / ರಾಗಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=30&VarCode=1&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Fine / ಉತ್ತಮ"
+    },
+    {
+        "name": "Fine / ಉತ್ತಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=1&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Fine / ಉತ್ತಮ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=2&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Red / ಕೆಂಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=3&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Red / ಕೆಂಪು"
+    },
+    {
+        "name": "Hybrid / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=4&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Navane / ನವಣೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=121&VarCode=1&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=121&VarCode=1&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=121&VarCode=999&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Same/Savi / ಸಾಮೆ/ಸಾವಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=122&VarCode=1&Date=DATEHERE&CommName=Same/Savi / ಸಾಮೆ/ಸಾವಿ&VarName=Same/Savi Local / ಸಾಮೆ / ಸಾವಿ"
+    },
+    {
+        "name": "Same/Savi Local / ಸಾಮೆ / ಸಾವಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=122&VarCode=1&Date=DATEHERE&CommName=Same/Savi / ಸಾಮೆ/ಸಾವಿ&VarName=Same/Savi Local / ಸಾಮೆ / ಸಾವಿ"
+    },
+    {
+        "name": "Sajje / ಸಜ್ಜೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=271&VarCode=1&Date=DATEHERE&CommName=Sajje / ಸಜ್ಜೆ&VarName=Sajje / ಸಜ್ಜೆ"
+    },
+    {
+        "name": "Sajje / ಸಜ್ಜೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=271&VarCode=1&Date=DATEHERE&CommName=Sajje / ಸಜ್ಜೆ&VarName=Sajje / ಸಜ್ಜೆ"
+    },
+    {
+        "name": "Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=278&VarCode=1&Date=DATEHERE&CommName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ&VarName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ"
+    },
+    {
+        "name": "Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=278&VarCode=1&Date=DATEHERE&CommName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ&VarName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ"
+    },
+    {
+        "name": "Cotton / ಹತ್ತಿ ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=15&VarCode=5&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Suyodhar / ಸುಯೋಧರ್"
+    },
+    {
+        "name": "Suyodhar / ಸುಯೋಧರ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=5&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Suyodhar / ಸುಯೋಧರ್"
+    },
+    {
+        "name": "NH-44 COTTON / ಎನ್.ಹಚ್.44 ಹತ್ತಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=20&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=NH-44 COTTON / ಎನ್.ಹಚ್.44 ಹತ್ತಿ"
+    },
+    {
+        "name": "BANNI / ಬನಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=25&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=BANNI / ಬನಿ"
+    },
+    {
+        "name": "HYBRID-44 / ಹೈಬ್ರಿಡ್-44 (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=26&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=HYBRID-44 / ಹೈಬ್ರಿಡ್-44"
+    },
+    {
+        "name": "Jaydhar / ಜಯಧರ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=32&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Jaydhar / ಜಯಧರ್"
+    },
+    {
+        "name": "D.C.H. / ಡಿ.ಸಿ.ಹೆಚ್.  (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=75&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=D.C.H. / ಡಿ.ಸಿ.ಹೆಚ್."
+    },
+    {
+        "name": " (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=79&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName="
+    },
+    {
+        "name": "All Flowers / ಎಲ್ಲಾ ಹೂಗಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=227&VarCode=999&Date=DATEHERE&CommName=All Flowers / ಎಲ್ಲಾ ಹೂಗಳು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=227&VarCode=999&Date=DATEHERE&CommName=All Flowers / ಎಲ್ಲಾ ಹೂಗಳು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Rose / ಗುಲಾಬಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=228&VarCode=999&Date=DATEHERE&CommName=Rose / ಗುಲಾಬಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=228&VarCode=999&Date=DATEHERE&CommName=Rose / ಗುಲಾಬಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Soapnut / ಸೀಗೇಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=207&VarCode=2&Date=DATEHERE&CommName=Soapnut / ಸೀಗೇಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ"
+    },
+    {
+        "name": "Medium / ಮಧ್ಯಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=207&VarCode=2&Date=DATEHERE&CommName=Soapnut / ಸೀಗೇಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ"
+    },
+    {
+        "name": "Tamarind Seed / ಹುಣಸೇಬೀಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=208&VarCode=1&Date=DATEHERE&CommName=Tamarind Seed / ಹುಣಸೇಬೀಜ&VarName=Tamarind Seed / ಹುಣಸೆ ಬೀಜ"
+    },
+    {
+        "name": "Tamarind Seed / ಹುಣಸೆ ಬೀಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=208&VarCode=1&Date=DATEHERE&CommName=Tamarind Seed / ಹುಣಸೇಬೀಜ&VarName=Tamarind Seed / ಹುಣಸೆ ಬೀಜ"
+    },
+    {
+        "name": "Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=261&VarCode=1&Date=DATEHERE&CommName=Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು&VarName=Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು"
+    },
+    {
+        "name": "Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=261&VarCode=1&Date=DATEHERE&CommName=Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು&VarName=Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು"
+    },
+    {
+        "name": "Apple / ಸೇಬು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=17&VarCode=23&Date=DATEHERE&CommName=Apple / ಸೇಬು&VarName=Apple / ಸೇಬು"
+    },
+    {
+        "name": "Apple / ಸೇಬು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=17&VarCode=23&Date=DATEHERE&CommName=Apple / ಸೇಬು&VarName=Apple / ಸೇಬು"
+    },
+    {
+        "name": "Orange / ಕಿತ್ತಳೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=18&VarCode=6&Date=DATEHERE&CommName=Orange / ಕಿತ್ತಳೆ&VarName=Orange / ಕಿತ್ತಳೆ"
+    },
+    {
+        "name": "Orange / ಕಿತ್ತಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=18&VarCode=6&Date=DATEHERE&CommName=Orange / ಕಿತ್ತಳೆ&VarName=Orange / ಕಿತ್ತಳೆ"
+    },
+    {
+        "name": "Banana / ಬಾಳೆಹಣ್ಣು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=19&VarCode=9&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nendra Bale / ನೇಂದ್ರಬಾಳೆ"
+    },
+    {
+        "name": "Nendra Bale / ನೇಂದ್ರಬಾಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=9&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nendra Bale / ನೇಂದ್ರಬಾಳೆ"
+    },
+    {
+        "name": "Banana - Ripe / ಬನಾನ ರೈಪ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=10&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Banana - Ripe / ಬನಾನ ರೈಪ್"
+    },
+    {
+        "name": "Pachha Bale / ಪಚ್ಚಬಾಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=11&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Pachha Bale / ಪಚ್ಚಬಾಳೆ"
+    },
+    {
+        "name": "Elakki Bale / ಏಲಕ್ಕಿ ಬಾಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=12&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Elakki Bale / ಏಲಕ್ಕಿ ಬಾಳೆ"
+    },
+    {
+        "name": "Nauti Bale / ನಾಟಿ ಬಾಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=13&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nauti Bale / ನಾಟಿ ಬಾಳೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=999&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Pine Apple / ಅನಾನಸ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=21&VarCode=1&Date=DATEHERE&CommName=Pine Apple / ಅನಾನಸ್&VarName=Pine Apple / ಅನಾನಸ್"
+    },
+    {
+        "name": "Pine Apple / ಅನಾನಸ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=21&VarCode=1&Date=DATEHERE&CommName=Pine Apple / ಅನಾನಸ್&VarName=Pine Apple / ಅನಾನಸ್"
+    },
+    {
+        "name": "Grapes / ದ್ರಾಕ್ಷಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=22&VarCode=2&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Black / ಕಪ್ಪು"
+    },
+    {
+        "name": "Black / ಕಪ್ಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=2&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Black / ಕಪ್ಪು"
+    },
+    {
+        "name": "Green / ಹಸಿರು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=3&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Green / ಹಸಿರು"
+    },
+    {
+        "name": "White / ಬಿಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=4&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=White / ಬಿಳಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=999&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Chikoos (Sapota) / ಸಪೋಟ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=71&VarCode=1&Date=DATEHERE&CommName=Chikoos (Sapota) / ಸಪೋಟ&VarName=Sapota / ಸಪೋಟ"
+    },
+    {
+        "name": "Sapota / ಸಪೋಟ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=71&VarCode=1&Date=DATEHERE&CommName=Chikoos (Sapota) / ಸಪೋಟ&VarName=Sapota / ಸಪೋಟ"
+    },
+    {
+        "name": "Papaya / ಪಪ್ಪಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=72&VarCode=1&Date=DATEHERE&CommName=Papaya / ಪಪ್ಪಾಯಿ&VarName=Papaya / ಪಪ್ಪಾಯಿ"
+    },
+    {
+        "name": "Papaya / ಪಪ್ಪಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=72&VarCode=1&Date=DATEHERE&CommName=Papaya / ಪಪ್ಪಾಯಿ&VarName=Papaya / ಪಪ್ಪಾಯಿ"
+    },
+    {
+        "name": "Water Melon / ಕಲ್ಲಂಗಡಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=73&VarCode=1&Date=DATEHERE&CommName=Water Melon / ಕಲ್ಲಂಗಡಿ&VarName=Water Melon / ಕಲ್ಲಂಗಡಿ"
+    },
+    {
+        "name": "Water Melon / ಕಲ್ಲಂಗಡಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=73&VarCode=1&Date=DATEHERE&CommName=Water Melon / ಕಲ್ಲಂಗಡಿ&VarName=Water Melon / ಕಲ್ಲಂಗಡಿ"
+    },
+    {
+        "name": "Mousambi / ಮೂಸಂಬಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=77&VarCode=1&Date=DATEHERE&CommName=Mousambi / ಮೂಸಂಬಿ&VarName=Mousambi / ಮೊಸಂಬಿ"
+    },
+    {
+        "name": "Mousambi / ಮೊಸಂಬಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=77&VarCode=1&Date=DATEHERE&CommName=Mousambi / ಮೂಸಂಬಿ&VarName=Mousambi / ಮೊಸಂಬಿ"
+    },
+    {
+        "name": "Guava / ಸೀಬೆಹಣ್ಣು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=185&VarCode=4&Date=DATEHERE&CommName=Guava / ಸೀಬೆಹಣ್ಣು&VarName=Guava / ಸೀಬೆಕಾಯಿ"
+    },
+    {
+        "name": "Guava / ಸೀಬೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=185&VarCode=4&Date=DATEHERE&CommName=Guava / ಸೀಬೆಹಣ್ಣು&VarName=Guava / ಸೀಬೆಕಾಯಿ"
+    },
+    {
+        "name": "Karbuja / ಕರಬೂಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=187&VarCode=1&Date=DATEHERE&CommName=Karbuja / ಕರಬೂಜ&VarName=Karbhuja / ಕರ್ಬೂಜ"
+    },
+    {
+        "name": "Karbhuja / ಕರ್ಬೂಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=187&VarCode=1&Date=DATEHERE&CommName=Karbuja / ಕರಬೂಜ&VarName=Karbhuja / ಕರ್ಬೂಜ"
+    },
+    {
+        "name": "Pomagranate / ದಾಳಿಂಬೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=190&VarCode=1&Date=DATEHERE&CommName=Pomagranate / ದಾಳಿಂಬೆ&VarName=Pomogranate / ದಾಳಿಂಬೆ"
+    },
+    {
+        "name": "Pomogranate / ದಾಳಿಂಬೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=190&VarCode=1&Date=DATEHERE&CommName=Pomagranate / ದಾಳಿಂಬೆ&VarName=Pomogranate / ದಾಳಿಂಬೆ"
+    },
+    {
+        "name": "Cow (For Each) / ಹಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=212&VarCode=1&Date=DATEHERE&CommName=Cow (For Each) / ಹಸು&VarName=Cow / ಆಕಳು"
+    },
+    {
+        "name": "Cow / ಆಕಳು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=212&VarCode=1&Date=DATEHERE&CommName=Cow (For Each) / ಹಸು&VarName=Cow / ಆಕಳು"
+    },
+    {
+        "name": "Ox (For Each) / ಎತ್ತು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=213&VarCode=1&Date=DATEHERE&CommName=Ox (For Each) / ಎತ್ತು&VarName=Ox / ಎತ್ತು"
+    },
+    {
+        "name": "Ox / ಎತ್ತು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=213&VarCode=1&Date=DATEHERE&CommName=Ox (For Each) / ಎತ್ತು&VarName=Ox / ಎತ್ತು"
+    },
+    {
+        "name": "Bull (For Each) / ಹೋರಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=214&VarCode=1&Date=DATEHERE&CommName=Bull (For Each) / ಹೋರಿ&VarName=Bull / ಹೋರಿ"
+    },
+    {
+        "name": "Bull / ಹೋರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=214&VarCode=1&Date=DATEHERE&CommName=Bull (For Each) / ಹೋರಿ&VarName=Bull / ಹೋರಿ"
+    },
+    {
+        "name": "He Baffalo (For Each) / ಕೋಣ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=216&VarCode=1&Date=DATEHERE&CommName=He Baffalo (For Each) / ಕೋಣ&VarName=He Baffelo / ಕೋಣ"
+    },
+    {
+        "name": "He Baffelo / ಕೋಣ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=216&VarCode=1&Date=DATEHERE&CommName=He Baffalo (For Each) / ಕೋಣ&VarName=He Baffelo / ಕೋಣ"
+    },
+    {
+        "name": "She Baffalo (For Each) / ಎಮ್ಮೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=217&VarCode=1&Date=DATEHERE&CommName=She Baffalo (For Each) / ಎಮ್ಮೆ&VarName=She Baffelo / ಎಮ್ಮೆ"
+    },
+    {
+        "name": "She Baffelo / ಎಮ್ಮೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=217&VarCode=1&Date=DATEHERE&CommName=She Baffalo (For Each) / ಎಮ್ಮೆ&VarName=She Baffelo / ಎಮ್ಮೆ"
+    },
+    {
+        "name": "Sheep (For Each) / ಕುರಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=218&VarCode=1&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Small / ಕುರಿ ಚಿಕ್ಕದು"
+    },
+    {
+        "name": "Sheep Small / ಕುರಿ ಚಿಕ್ಕದು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=1&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Small / ಕುರಿ ಚಿಕ್ಕದು"
+    },
+    {
+        "name": "Sheep Medium / ಕುರಿ ಮಧ್ಯಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=2&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Medium / ಕುರಿ ಮಧ್ಯಮ"
+    },
+    {
+        "name": "Sheep Large / ಕುರಿ ದೊಡ್ಡದು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=3&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Large / ಕುರಿ ದೊಡ್ಡದು"
+    },
+    {
+        "name": "Goat (For Each) / ಮೇಕೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=219&VarCode=1&Date=DATEHERE&CommName=Goat (For Each) / ಮೇಕೆ&VarName=Goat / ಆಡು"
+    },
+    {
+        "name": "Goat / ಆಡು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=219&VarCode=1&Date=DATEHERE&CommName=Goat (For Each) / ಮೇಕೆ&VarName=Goat / ಆಡು"
+    },
+    {
+        "name": "Ram (For Each) / ಟಗರು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=282&VarCode=1&Date=DATEHERE&CommName=Ram (For Each) / ಟಗರು&VarName=Ram / ಟಗರು"
+    },
+    {
+        "name": "Ram / ಟಗರು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=282&VarCode=1&Date=DATEHERE&CommName=Ram (For Each) / ಟಗರು&VarName=Ram / ಟಗರು"
+    },
+    {
+        "name": "Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ) ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=10&VarCode=1&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Big (With Shell) / ಶೇಂಗಾ"
+    },
+    {
+        "name": "Big (With Shell) / ಶೇಂಗಾ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=1&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Big (With Shell) / ಶೇಂಗಾ"
+    },
+    {
+        "name": "Gungri (With Shell) / ಗುಂಗ್ರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=4&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Gungri (With Shell) / ಗುಂಗ್ರಿ"
+    },
+    {
+        "name": "Balli/Habbu / ಶೇಂಗಾ ಹಬ್ಬು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=15&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Balli/Habbu / ಶೇಂಗಾ ಹಬ್ಬು"
+    },
+    {
+        "name": "Gejje / ಶೇಂಗಾ ಗೆಜ್ಜೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=16&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Gejje / ಶೇಂಗಾ ಗೆಜ್ಜೆ"
+    },
+    {
+        "name": "Natte / ನಾಟಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=19&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Natte / ನಾಟಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=999&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Sesamum / ಎಳ್ಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=11&VarCode=8&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=White / ಬಿಳಿ"
+    },
+    {
+        "name": "White / ಬಿಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=11&VarCode=8&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=White / ಬಿಳಿ"
+    },
+    {
+        "name": "Black / ಕಪ್ಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=11&VarCode=9&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=Black / ಕಪ್ಪು"
+    },
+    {
+        "name": "Mustard / ಸಾಸುವೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=12&VarCode=999&Date=DATEHERE&CommName=Mustard / ಸಾಸುವೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=12&VarCode=999&Date=DATEHERE&CommName=Mustard / ಸಾಸುವೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Soyabeen / ಸೋಯಾಬಿನ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=13&VarCode=5&Date=DATEHERE&CommName=Soyabeen / ಸೋಯಾಬಿನ್&VarName=Soyabeen / ಸೋಯಾಬಿನ್"
+    },
+    {
+        "name": "Soyabeen / ಸೋಯಾಬಿನ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=13&VarCode=5&Date=DATEHERE&CommName=Soyabeen / ಸೋಯಾಬಿನ್&VarName=Soyabeen / ಸೋಯಾಬಿನ್"
+    },
+    {
+        "name": "Sunflower / ಸೂರ್ಯ ಕಾಂತಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=14&VarCode=3&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Sunflower / ಸೂರ್ಯಪಾನ"
+    },
+    {
+        "name": "Sunflower / ಸೂರ್ಯಪಾನ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=3&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Sunflower / ಸೂರ್ಯಪಾನ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=11&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Hybrid / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=12&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Safflower / ಕುಸುಬೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=59&VarCode=4&Date=DATEHERE&CommName=Safflower / ಕುಸುಬೆ&VarName=Safflower / ಸಾಫ್ ಫ್ಲವರ್"
+    },
+    {
+        "name": "Safflower / ಸಾಫ್ ಫ್ಲವರ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=59&VarCode=4&Date=DATEHERE&CommName=Safflower / ಕುಸುಬೆ&VarName=Safflower / ಸಾಫ್ ಫ್ಲವರ್"
+    },
+    {
+        "name": "Linseed / ಅಗಸ ಬೀಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=67&VarCode=999&Date=DATEHERE&CommName=Linseed / ಅಗಸ ಬೀಜ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=67&VarCode=999&Date=DATEHERE&CommName=Linseed / ಅಗಸ ಬೀಜ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Gingelly / ಎಳ್ಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=118&VarCode=999&Date=DATEHERE&CommName=Gingelly / ಎಳ್ಳು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=118&VarCode=999&Date=DATEHERE&CommName=Gingelly / ಎಳ್ಳು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Castor Seed / ಹರಳು ಬೀಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=123&VarCode=1&Date=DATEHERE&CommName=Castor Seed / ಹರಳು ಬೀಜ&VarName=Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್"
+    },
+    {
+        "name": "Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=123&VarCode=1&Date=DATEHERE&CommName=Castor Seed / ಹರಳು ಬೀಜ&VarName=Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್"
+    },
+    {
+        "name": "Honge Seed / ಹೊಂಗೆ ಬೀಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=124&VarCode=1&Date=DATEHERE&CommName=Honge Seed / ಹೊಂಗೆ ಬೀಜ&VarName=Honge Seed / ಹೊಂಗೆ ಬೀಜ"
+    },
+    {
+        "name": "Honge Seed / ಹೊಂಗೆ ಬೀಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=124&VarCode=1&Date=DATEHERE&CommName=Honge Seed / ಹೊಂಗೆ ಬೀಜ&VarName=Honge Seed / ಹೊಂಗೆ ಬೀಜ"
+    },
+    {
+        "name": "Copra / ಕೊಬ್ಬರಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=129&VarCode=1&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Copra / ಕೊಬ್ಬರಿ"
+    },
+    {
+        "name": "Copra / ಕೊಬ್ಬರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=1&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Copra / ಕೊಬ್ಬರಿ"
+    },
+    {
+        "name": "Small / ಸಣ್ಣ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=3&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Small / ಸಣ್ಣ"
+    },
+    {
+        "name": "Ball / ಬಾಲ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=5&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Ball / ಬಾಲ್"
+    },
+    {
+        "name": "Milling / ಮಿಲ್ಲಿಂಗ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=6&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Milling / ಮಿಲ್ಲಿಂಗ್"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=999&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=268&VarCode=1&Date=DATEHERE&CommName=Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ&VarName=Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ"
+    },
+    {
+        "name": "Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=268&VarCode=1&Date=DATEHERE&CommName=Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ&VarName=Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ"
+    },
+    {
+        "name": "Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=37&VarCode=1&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್"
+    },
+    {
+        "name": "IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=1&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್"
+    },
+    {
+        "name": "Grade- II / ಗ್ರೇಡ್-ll (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=3&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Grade- II / ಗ್ರೇಡ್-ll"
+    },
+    {
+        "name": "Coconut / ತೆಂಗಿನಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=6&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Coconut / ತೆಂಗಿನಕಾಯಿ"
+    },
+    {
+        "name": "Big / ದೊಡ್ಡದು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=7&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Big / ದೊಡ್ಡದು"
+    },
+    {
+        "name": "Medium / ಮಧ್ಯಮ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=8&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ"
+    },
+    {
+        "name": "Jaggery / ಬೆಲ್ಲ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=151&VarCode=1&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Achhu / ಅಚ್ಚು"
+    },
+    {
+        "name": "Achhu / ಅಚ್ಚು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=1&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Achhu / ಅಚ್ಚು"
+    },
+    {
+        "name": "Mudde / ಮುದ್ದೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=2&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Mudde / ಮುದ್ದೆ"
+    },
+    {
+        "name": "Unde / ಉಂಡೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=3&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Unde / ಉಂಡೆ"
+    },
+    {
+        "name": "Yellow / ಹಳದಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=5&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Yellow / ಹಳದಿ"
+    },
+    {
+        "name": "Kurikatu / ಕುರಿಕಟ್ಟು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=7&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Kurikatu / ಕುರಿಕಟ್ಟು"
+    },
+    {
+        "name": "PENTI / ಪೆಂಟಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=16&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=PENTI / ಪೆಂಟಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=999&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Tender Coconut / ಎಳನೀರು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=200&VarCode=1&Date=DATEHERE&CommName=Tender Coconut / ಎಳನೀರು&VarName=Tender Coconut / ಎಳನೀರು"
+    },
+    {
+        "name": "Tender Coconut / ಎಳನೀರು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=200&VarCode=1&Date=DATEHERE&CommName=Tender Coconut / ಎಳನೀರು&VarName=Tender Coconut / ಎಳನೀರು"
+    },
+    {
+        "name": "Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=296&VarCode=1&Date=DATEHERE&CommName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)&VarName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)"
+    },
+    {
+        "name": "Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=296&VarCode=1&Date=DATEHERE&CommName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)&VarName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)"
+    },
+    {
+        "name": "Arecanut / ಅಡಿಕೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=140&VarCode=3&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Sippegotu / ಸಿಪ್ಪೆಗೋಟು"
+    },
+    {
+        "name": "Sippegotu / ಸಿಪ್ಪೆಗೋಟು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=3&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Sippegotu / ಸಿಪ್ಪೆಗೋಟು"
+    },
+    {
+        "name": "Bilegotu / ಬಿಳೆ ಗೋಟು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=4&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Bilegotu / ಬಿಳೆ ಗೋಟು"
+    },
+    {
+        "name": "Api / ಅಪಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=5&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Api / ಅಪಿ"
+    },
+    {
+        "name": "Kempugotu / ಕೆಂಪುಗೋಟು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=6&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Kempugotu / ಕೆಂಪುಗೋಟು"
+    },
+    {
+        "name": "Coca / ಕೋಕ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=7&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Coca / ಕೋಕ"
+    },
+    {
+        "name": "Bette / ಬೆಟ್ಟೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=8&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Bette / ಬೆಟ್ಟೆ"
+    },
+    {
+        "name": "Saraku / ಸರಕು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=9&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Saraku / ಸರಕು"
+    },
+    {
+        "name": "Gorabalu / ಗೊರಬಲು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=10&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Gorabalu / ಗೊರಬಲು"
+    },
+    {
+        "name": "Tattibettee / ತಟ್ಟಿಬೆಟ್ಟೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=14&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Tattibettee / ತಟ್ಟಿಬೆಟ್ಟೆ"
+    },
+    {
+        "name": "Chippu / ಚಿಪ್ಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=15&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Chippu / ಚಿಪ್ಪು"
+    },
+    {
+        "name": "Rashi / ರಾಶಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=16&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Rashi / ರಾಶಿ"
+    },
+    {
+        "name": "Factory / ಫ್ಯಾಕ್ಟರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=18&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Factory / ಫ್ಯಾಕ್ಟರಿ"
+    },
+    {
+        "name": "New Variety / ನ್ಯೂ ವೆರೈಟಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=20&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=New Variety / ನ್ಯೂ ವೆರೈಟಿ"
+    },
+    {
+        "name": "EDI / ಈಡಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=21&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=EDI / ಈಡಿ"
+    },
+    {
+        "name": "Old Variety / ವೋಲ್ಡ್ ವೆರೈಟಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=24&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Old Variety / ವೋಲ್ಡ್ ವೆರೈಟಿ"
+    },
+    {
+        "name": "Chali / ಚಾಲಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=25&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Chali / ಚಾಲಿ"
+    },
+    {
+        "name": "Hosa Chali / ಹೊಸ ಚಾಲಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=28&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Hosa Chali / ಹೊಸ ಚಾಲಿ"
+    },
+    {
+        "name": "Hale Chali / ಹಳೆ ಚಾಲಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=29&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Hale Chali / ಹಳೆ ಚಾಲಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=999&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Betal Leaves / ವೀಳ್ಯೆದೆಲೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=143&VarCode=4&Date=DATEHERE&CommName=Betal Leaves / ವೀಳ್ಯೆದೆಲೆ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=143&VarCode=4&Date=DATEHERE&CommName=Betal Leaves / ವೀಳ್ಯೆದೆಲೆ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Bengalgram / ಕಡಲೆಕಾಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=6&VarCode=1&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Average(Whole) / ಆವರೇಜ್ (ಇಡಿ)"
+    },
+    {
+        "name": "Average(Whole) / ಆವರೇಜ್ (ಇಡಿ) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=1&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Average(Whole) / ಆವರೇಜ್ (ಇಡಿ)"
+    },
+    {
+        "name": "Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=22&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=999&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Blackgram / ಉದ್ದಿನಕಾಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=8&VarCode=10&Date=DATEHERE&CommName=Blackgram / ಉದ್ದಿನಕಾಳು&VarName=Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು"
+    },
+    {
+        "name": "Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=8&VarCode=10&Date=DATEHERE&CommName=Blackgram / ಉದ್ದಿನಕಾಳು&VarName=Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು"
+    },
+    {
+        "name": "Greengram / ಹೆಸರುಕಾಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=9&VarCode=1&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Green Gram (Whole) / ಹೆಸರುಕಾಳು"
+    },
+    {
+        "name": "Green Gram (Whole) / ಹೆಸರುಕಾಳು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=1&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Green Gram (Whole) / ಹೆಸರುಕಾಳು"
+    },
+    {
+        "name": "Local (Whole) / ಸ್ಥಳೀಯ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=4&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Local (Whole) / ಸ್ಥಳೀಯ (ವೋಲ್)"
+    },
+    {
+        "name": "Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=17&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ"
+    },
+    {
+        "name": "Green Peas / ಬಟಾಣಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=50&VarCode=1&Date=DATEHERE&CommName=Green Peas / ಬಟಾಣಿ&VarName=Green Peas / ಹಸಿ ಬಟಾಣಿ"
+    },
+    {
+        "name": "Green Peas / ಹಸಿ ಬಟಾಣಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=50&VarCode=1&Date=DATEHERE&CommName=Green Peas / ಬಟಾಣಿ&VarName=Green Peas / ಹಸಿ ಬಟಾಣಿ"
+    },
+    {
+        "name": "Avare / ಅವರೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=91&VarCode=1&Date=DATEHERE&CommName=Avare / ಅವರೆ&VarName=Avare (Whole) / ಅವರೆ (ವೋಲ್)"
+    },
+    {
+        "name": "Avare (Whole) / ಅವರೆ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=91&VarCode=1&Date=DATEHERE&CommName=Avare / ಅವರೆ&VarName=Avare (Whole) / ಅವರೆ (ವೋಲ್)"
+    },
+    {
+        "name": "Cowpea / ಅಲಸಂದೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=92&VarCode=1&Date=DATEHERE&CommName=Cowpea / ಅಲಸಂದೆ&VarName=Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್)"
+    },
+    {
+        "name": "Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=92&VarCode=1&Date=DATEHERE&CommName=Cowpea / ಅಲಸಂದೆ&VarName=Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್)"
+    },
+    {
+        "name": "Mataki / ಮಡಿಕೆ (ಮಟಕಿ)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=93&VarCode=1&Date=DATEHERE&CommName=Mataki / ಮಡಿಕೆ (ಮಟಕಿ)&VarName=Mataki (W) / ಮಟಕಿ (ವೋಲ್)"
+    },
+    {
+        "name": "Mataki (W) / ಮಟಕಿ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=93&VarCode=1&Date=DATEHERE&CommName=Mataki / ಮಡಿಕೆ (ಮಟಕಿ)&VarName=Mataki (W) / ಮಟಕಿ (ವೋಲ್)"
+    },
+    {
+        "name": "Moath / ಮೋತ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=95&VarCode=1&Date=DATEHERE&CommName=Moath / ಮೋತ್&VarName=Moath (W) / ಮೋತ್ (ವೋಲ್)"
+    },
+    {
+        "name": "Moath (W) / ಮೋತ್ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=95&VarCode=1&Date=DATEHERE&CommName=Moath / ಮೋತ್&VarName=Moath (W) / ಮೋತ್ (ವೋಲ್)"
+    },
+    {
+        "name": "Horse Gram / ಹುರುಳಿ ಕಾಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=114&VarCode=1&Date=DATEHERE&CommName=Horse Gram / ಹುರುಳಿ ಕಾಳು&VarName=Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)"
+    },
+    {
+        "name": "Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)  (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=114&VarCode=1&Date=DATEHERE&CommName=Horse Gram / ಹುರುಳಿ ಕಾಳು&VarName=Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)"
+    },
+    {
+        "name": "Tur Dal / ತೊಗರಿ ಬೇಳೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=260&VarCode=1&Date=DATEHERE&CommName=Tur Dal / ತೊಗರಿ ಬೇಳೆ&VarName=Tur Dal / ತೊಗರಿಬೇಳೆ"
+    },
+    {
+        "name": "Tur Dal / ತೊಗರಿಬೇಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=260&VarCode=1&Date=DATEHERE&CommName=Tur Dal / ತೊಗರಿ ಬೇಳೆ&VarName=Tur Dal / ತೊಗರಿಬೇಳೆ"
+    },
+    {
+        "name": "Bengal Gramdal / ಕಡಲೆಬೇಳೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=263&VarCode=1&Date=DATEHERE&CommName=Bengal Gramdal / ಕಡಲೆಬೇಳೆ&VarName=Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ"
+    },
+    {
+        "name": "Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=263&VarCode=1&Date=DATEHERE&CommName=Bengal Gramdal / ಕಡಲೆಬೇಳೆ&VarName=Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ"
+    },
+    {
+        "name": "Black Gramdal / ಉದ್ದಿನಬೇಳೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=264&VarCode=1&Date=DATEHERE&CommName=Black Gramdal / ಉದ್ದಿನಬೇಳೆ&VarName=Black Gram Dal / ಉದ್ದಿನಬೇಳೆ"
+    },
+    {
+        "name": "Black Gram Dal / ಉದ್ದಿನಬೇಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=264&VarCode=1&Date=DATEHERE&CommName=Black Gramdal / ಉದ್ದಿನಬೇಳೆ&VarName=Black Gram Dal / ಉದ್ದಿನಬೇಳೆ"
+    },
+    {
+        "name": "Green Gramdal / ಹೆಸರುಬೇಳೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=265&VarCode=1&Date=DATEHERE&CommName=Green Gramdal / ಹೆಸರುಬೇಳೆ&VarName=Green Gram Dal / ಹೆಸರುಬೇಳೆ"
+    },
+    {
+        "name": "Green Gram Dal / ಹೆಸರುಬೇಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=265&VarCode=1&Date=DATEHERE&CommName=Green Gramdal / ಹೆಸರುಬೇಳೆ&VarName=Green Gram Dal / ಹೆಸರುಬೇಳೆ"
+    },
+    {
+        "name": "Tur / ತೊಗರಿ ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=275&VarCode=1&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Tur / ತೊಗರಿ"
+    },
+    {
+        "name": "Tur / ತೊಗರಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=1&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Tur / ತೊಗರಿ"
+    },
+    {
+        "name": "White / ಬಿಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=2&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=White / ಬಿಳಿ"
+    },
+    {
+        "name": "Red / ಕೆಂಪು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=4&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Red / ಕೆಂಪು"
+    },
+    {
+        "name": "Alasande Gram / ಅಲಸಂದೆ ಕಾಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=281&VarCode=1&Date=DATEHERE&CommName=Alasande Gram / ಅಲಸಂದೆ ಕಾಳು&VarName=Alasande Gram / ಅಲಸಂದೆಕಾಳು"
+    },
+    {
+        "name": "Alasande Gram / ಅಲಸಂದೆಕಾಳು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=281&VarCode=1&Date=DATEHERE&CommName=Alasande Gram / ಅಲಸಂದೆ ಕಾಳು&VarName=Alasande Gram / ಅಲಸಂದೆಕಾಳು"
+    },
+    {
+        "name": "Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=295&VarCode=1&Date=DATEHERE&CommName=Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್&VarName=Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ"
+    },
+    {
+        "name": "Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=295&VarCode=1&Date=DATEHERE&CommName=Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್&VarName=Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ"
+    },
+    {
+        "name": "Garlic / ಬೆಳ್ಳುಳ್ಳಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=25&VarCode=3&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ"
+    },
+    {
+        "name": "Garlic / ಬೆಳ್ಳುಳ್ಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=25&VarCode=3&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=25&VarCode=999&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=26&VarCode=999&Date=DATEHERE&CommName=Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=26&VarCode=999&Date=DATEHERE&CommName=Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Ginger / ಶುಂಠಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=27&VarCode=1&Date=DATEHERE&CommName=Ginger / ಶುಂಠಿ&VarName=Dry / ಒಣ"
+    },
+    {
+        "name": "Dry / ಒಣ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=27&VarCode=1&Date=DATEHERE&CommName=Ginger / ಶುಂಠಿ&VarName=Dry / ಒಣ"
+    },
+    {
+        "name": "Pepper / ಮೆಣಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=38&VarCode=1&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Black Pepper / ಕರಿಮೆಣಸು"
+    },
+    {
+        "name": "Black Pepper / ಕರಿಮೆಣಸು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=38&VarCode=1&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Black Pepper / ಕರಿಮೆಣಸು"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=38&VarCode=999&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Turmeric / ಅರಿಶಿನ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=39&VarCode=10&Date=DATEHERE&CommName=Turmeric / ಅರಿಶಿನ&VarName=Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್"
+    },
+    {
+        "name": "Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=39&VarCode=10&Date=DATEHERE&CommName=Turmeric / ಅರಿಶಿನ&VarName=Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್"
+    },
+    {
+        "name": "Cumminseed / ಕುಮಿನ್ ಸೀಡ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=42&VarCode=999&Date=DATEHERE&CommName=Cumminseed / ಕುಮಿನ್ ಸೀಡ್&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=42&VarCode=999&Date=DATEHERE&CommName=Cumminseed / ಕುಮಿನ್ ಸೀಡ್&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=47&VarCode=1&Date=DATEHERE&CommName=Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ&VarName=Methiseeds / ಮೆಂತ್ಯ ಬೀಜ"
+    },
+    {
+        "name": "Methiseeds / ಮೆಂತ್ಯ ಬೀಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=47&VarCode=1&Date=DATEHERE&CommName=Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ&VarName=Methiseeds / ಮೆಂತ್ಯ ಬೀಜ"
+    },
+    {
+        "name": "Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=108&VarCode=1&Date=DATEHERE&CommName=Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ)&VarName=Coriander Seed / ಧನಿಯಾ ಬೀಜ"
+    },
+    {
+        "name": "Coriander Seed / ಧನಿಯಾ ಬೀಜ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=108&VarCode=1&Date=DATEHERE&CommName=Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ)&VarName=Coriander Seed / ಧನಿಯಾ ಬೀಜ"
+    },
+    {
+        "name": "Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=132&VarCode=1&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Byadgi / ಬ್ಯಾಡಗಿ"
+    },
+    {
+        "name": "Byadgi / ಬ್ಯಾಡಗಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=1&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Byadgi / ಬ್ಯಾಡಗಿ"
+    },
+    {
+        "name": "Dabbi / ಡಬ್ಬಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=7&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Dabbi / ಡಬ್ಬಿ"
+    },
+    {
+        "name": "Kaddi / ಕಡ್ಡಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=9&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Kaddi / ಕಡ್ಡಿ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=10&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Guntur / ಗುಂಟೂರು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=12&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Guntur / ಗುಂಟೂರು"
+    },
+    {
+        "name": "Onion / ಈರುಳ್ಳಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=23&VarCode=2&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.)"
+    },
+    {
+        "name": "Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=2&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.)"
+    },
+    {
+        "name": "Bellary Red / ಬಳ್ಳಾರಿ ಸಣ್ಣ  (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=9&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bellary Red / ಬಳ್ಳಾರಿ ಸಣ್ಣ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=13&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Onion / ಈರುಳ್ಳಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=15&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Onion / ಈರುಳ್ಳಿ"
+    },
+    {
+        "name": "Puna / ಪೂನ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=16&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Puna / ಪೂನ"
+    },
+    {
+        "name": "Telagi / ತೆಲಗಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=17&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Telagi / ತೆಲಗಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=999&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Potato / ಆಲೂಗಡ್ಡೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=24&VarCode=2&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Chandramukhi / ಚಂದ್ರಮುಖಿ"
+    },
+    {
+        "name": "Chandramukhi / ಚಂದ್ರಮುಖಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=2&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Chandramukhi / ಚಂದ್ರಮುಖಿ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=14&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Potato / ಆಲೂಗಡ್ಡೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=15&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Potato / ಆಲೂಗಡ್ಡೆ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=999&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Cauliflower / ಹೂಕೋಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=34&VarCode=7&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=34&VarCode=7&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Cauliflower / ಹೂಕೋಸು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=34&VarCode=8&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Cauliflower / ಹೂಕೋಸು"
+    },
+    {
+        "name": "Brinjal / ಬದನೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=35&VarCode=1&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round / ರೌಂಡ್"
+    },
+    {
+        "name": "Round / ರೌಂಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=1&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round / ರೌಂಡ್"
+    },
+    {
+        "name": "Round/Long / ರೌಂಡ್ / ಲಾಂಗ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=2&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round/Long / ರೌಂಡ್ / ಲಾಂಗ್"
+    },
+    {
+        "name": "Brinjal / ಬದನೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=9&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Brinjal / ಬದನೆಕಾಯಿ"
+    },
+    {
+        "name": "Other / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=999&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Other / ಇತರೆ"
+    },
+    {
+        "name": "Coriander / ಧನಿಯಾ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=43&VarCode=2&Date=DATEHERE&CommName=Coriander / ಧನಿಯಾ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Local / ಸ್ಥಳೀಯ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=43&VarCode=2&Date=DATEHERE&CommName=Coriander / ಧನಿಯಾ&VarName=Local / ಸ್ಥಳೀಯ"
+    },
+    {
+        "name": "Tomato / ಟೊಮ್ಯಾಟೊ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=78&VarCode=4&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Hybrid / ಹೈಬ್ರಿಡ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=78&VarCode=4&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Hybrid / ಹೈಬ್ರಿಡ್"
+    },
+    {
+        "name": "Tomato / ಟೊಮ್ಯೂಟೊ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=78&VarCode=5&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Tomato / ಟೊಮ್ಯೂಟೊ"
+    },
+    {
+        "name": "Bitter Gourd / ಹಾಗಲಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=81&VarCode=1&Date=DATEHERE&CommName=Bitter Gourd / ಹಾಗಲಕಾಯಿ&VarName=Bitter Gourd / ಹಾಗಲಕಾಯಿ"
+    },
+    {
+        "name": "Bitter Gourd / ಹಾಗಲಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=81&VarCode=1&Date=DATEHERE&CommName=Bitter Gourd / ಹಾಗಲಕಾಯಿ&VarName=Bitter Gourd / ಹಾಗಲಕಾಯಿ"
+    },
+    {
+        "name": "Bottle Gourd / ಸೋರೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=82&VarCode=1&Date=DATEHERE&CommName=Bottle Gourd / ಸೋರೆಕಾಯಿ&VarName=Bottle Gourd / ಸೋರೆಕಾಯಿ"
+    },
+    {
+        "name": "Bottle Gourd / ಸೋರೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=82&VarCode=1&Date=DATEHERE&CommName=Bottle Gourd / ಸೋರೆಕಾಯಿ&VarName=Bottle Gourd / ಸೋರೆಕಾಯಿ"
+    },
+    {
+        "name": "Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=83&VarCode=2&Date=DATEHERE&CommName=Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=Ashgourd / ಬೂದುಕುಂಬಳ"
+    },
+    {
+        "name": "Ashgourd / ಬೂದುಕುಂಬಳ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=83&VarCode=2&Date=DATEHERE&CommName=Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=Ashgourd / ಬೂದುಕುಂಬಳ"
+    },
+    {
+        "name": "Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=87&VarCode=1&Date=DATEHERE&CommName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ&VarName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=87&VarCode=1&Date=DATEHERE&CommName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ&VarName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=88&VarCode=1&Date=DATEHERE&CommName=Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ&VarName=Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=88&VarCode=1&Date=DATEHERE&CommName=Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ&VarName=Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=89&VarCode=1&Date=DATEHERE&CommName=Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ&VarName=Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ"
+    },
+    {
+        "name": "Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=89&VarCode=1&Date=DATEHERE&CommName=Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ&VarName=Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ"
+    },
+    {
+        "name": "Banana Green / ಬಾಳೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=90&VarCode=1&Date=DATEHERE&CommName=Banana Green / ಬಾಳೆಕಾಯಿ&VarName=Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ"
+    },
+    {
+        "name": "Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=90&VarCode=1&Date=DATEHERE&CommName=Banana Green / ಬಾಳೆಕಾಯಿ&VarName=Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ"
+    },
+    {
+        "name": "Beans / ಹುರುಳಿಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=94&VarCode=1&Date=DATEHERE&CommName=Beans / ಹುರುಳಿಕಾಯಿ&VarName=Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್)"
+    },
+    {
+        "name": "Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=94&VarCode=1&Date=DATEHERE&CommName=Beans / ಹುರುಳಿಕಾಯಿ&VarName=Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್)"
+    },
+    {
+        "name": "Green Ginger / ಹಸಿ ಶುಂಠಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=103&VarCode=1&Date=DATEHERE&CommName=Green Ginger / ಹಸಿ ಶುಂಠಿ&VarName=Green Ginger / ಹಸಿ ಶುಂಠಿ"
+    },
+    {
+        "name": "Green Ginger / ಹಸಿ ಶುಂಠಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=103&VarCode=1&Date=DATEHERE&CommName=Green Ginger / ಹಸಿ ಶುಂಠಿ&VarName=Green Ginger / ಹಸಿ ಶುಂಠಿ"
+    },
+    {
+        "name": "Sweet Potato / ಸಿಹಿ ಗೆಣಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=152&VarCode=3&Date=DATEHERE&CommName=Sweet Potato / ಸಿಹಿ ಗೆಣಸು&VarName=Sweet Potato / ಗೆಣಸು"
+    },
+    {
+        "name": "Sweet Potato / ಗೆಣಸು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=152&VarCode=3&Date=DATEHERE&CommName=Sweet Potato / ಸಿಹಿ ಗೆಣಸು&VarName=Sweet Potato / ಗೆಣಸು"
+    },
+    {
+        "name": "Carrot / ಕ್ಯಾರೆಟ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=153&VarCode=1&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Pusakesar / ಪುಸಕೇಸರ್"
+    },
+    {
+        "name": "Pusakesar / ಪುಸಕೇಸರ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=1&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Pusakesar / ಪುಸಕೇಸರ್"
+    },
+    {
+        "name": "Carrot / ಕ್ಯಾರೆಟ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=2&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Carrot / ಕ್ಯಾರೆಟ್"
+    },
+    {
+        "name": "Others / ಇತರೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=999&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Others / ಇತರೆ"
+    },
+    {
+        "name": "Cabbage / ಎಲೆಕೋಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=154&VarCode=1&Date=DATEHERE&CommName=Cabbage / ಎಲೆಕೋಸು&VarName=Cabbage / ಎಲೆಕೋಸು"
+    },
+    {
+        "name": "Cabbage / ಎಲೆಕೋಸು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=154&VarCode=1&Date=DATEHERE&CommName=Cabbage / ಎಲೆಕೋಸು&VarName=Cabbage / ಎಲೆಕೋಸು"
+    },
+    {
+        "name": "Ladies Finger / ಬೆಂಡೇಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=155&VarCode=1&Date=DATEHERE&CommName=Ladies Finger / ಬೆಂಡೇಕಾಯಿ&VarName=Ladies Finger / ಬೆಂಡೆಕಾಯಿ"
+    },
+    {
+        "name": "Ladies Finger / ಬೆಂಡೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=155&VarCode=1&Date=DATEHERE&CommName=Ladies Finger / ಬೆಂಡೇಕಾಯಿ&VarName=Ladies Finger / ಬೆಂಡೆಕಾಯಿ"
+    },
+    {
+        "name": "Snakeguard / ಪಡವಲಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=156&VarCode=1&Date=DATEHERE&CommName=Snakeguard / ಪಡವಲಕಾಯಿ&VarName=Snakeguard / ಪಡವಲಕಾಯಿ"
+    },
+    {
+        "name": "Snakeguard / ಪಡವಲಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=156&VarCode=1&Date=DATEHERE&CommName=Snakeguard / ಪಡವಲಕಾಯಿ&VarName=Snakeguard / ಪಡವಲಕಾಯಿ"
+    },
+    {
+        "name": "Beetroot / ಬೀಟ್ರೂಟ್",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=157&VarCode=1&Date=DATEHERE&CommName=Beetroot / ಬೀಟ್ರೂಟ್&VarName=Beetroot / ಬೀಟ್ ರೂಟ್"
+    },
+    {
+        "name": "Beetroot / ಬೀಟ್ ರೂಟ್ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=157&VarCode=1&Date=DATEHERE&CommName=Beetroot / ಬೀಟ್ರೂಟ್&VarName=Beetroot / ಬೀಟ್ ರೂಟ್"
+    },
+    {
+        "name": "White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=158&VarCode=1&Date=DATEHERE&CommName=White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ"
+    },
+    {
+        "name": "White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=158&VarCode=1&Date=DATEHERE&CommName=White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ"
+    },
+    {
+        "name": "Cucumbar / ಸೌತೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=159&VarCode=1&Date=DATEHERE&CommName=Cucumbar / ಸೌತೆಕಾಯಿ&VarName=Cucumbar / ಸೌತೆಕಾಯಿ"
+    },
+    {
+        "name": "Cucumbar / ಸೌತೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=159&VarCode=1&Date=DATEHERE&CommName=Cucumbar / ಸೌತೆಕಾಯಿ&VarName=Cucumbar / ಸೌತೆಕಾಯಿ"
+    },
+    {
+        "name": "Ridgeguard / ಹೀರೇಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=160&VarCode=1&Date=DATEHERE&CommName=Ridgeguard / ಹೀರೇಕಾಯಿ&VarName=Ridgeguard / ಹೀರೆಕಾಯಿ"
+    },
+    {
+        "name": "Ridgeguard / ಹೀರೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=160&VarCode=1&Date=DATEHERE&CommName=Ridgeguard / ಹೀರೇಕಾಯಿ&VarName=Ridgeguard / ಹೀರೆಕಾಯಿ"
+    },
+    {
+        "name": "Raddish / ಮುೂಲಂಗಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=161&VarCode=1&Date=DATEHERE&CommName=Raddish / ಮುೂಲಂಗಿ&VarName=Raddish / ಮೂಲಂಗಿ"
+    },
+    {
+        "name": "Raddish / ಮೂಲಂಗಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=161&VarCode=1&Date=DATEHERE&CommName=Raddish / ಮುೂಲಂಗಿ&VarName=Raddish / ಮೂಲಂಗಿ"
+    },
+    {
+        "name": "Thondekai / ತೊಂಡೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=162&VarCode=1&Date=DATEHERE&CommName=Thondekai / ತೊಂಡೆಕಾಯಿ&VarName=Thondekai / ತೊಂಡೇಕಾಯಿ"
+    },
+    {
+        "name": "Thondekai / ತೊಂಡೇಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=162&VarCode=1&Date=DATEHERE&CommName=Thondekai / ತೊಂಡೆಕಾಯಿ&VarName=Thondekai / ತೊಂಡೇಕಾಯಿ"
+    },
+    {
+        "name": "Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=164&VarCode=1&Date=DATEHERE&CommName=Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ&VarName=Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=164&VarCode=1&Date=DATEHERE&CommName=Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ&VarName=Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ"
+    },
+    {
+        "name": "Green Avare (W) / ಅವರೇಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=165&VarCode=3&Date=DATEHERE&CommName=Green Avare (W) / ಅವರೇಕಾಯಿ&VarName=Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ)"
+    },
+    {
+        "name": "Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ) (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=165&VarCode=3&Date=DATEHERE&CommName=Green Avare (W) / ಅವರೇಕಾಯಿ&VarName=Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ)"
+    },
+    {
+        "name": "Alasandikai / ಅಲಸಂದಿಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=166&VarCode=1&Date=DATEHERE&CommName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ&VarName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ"
+    },
+    {
+        "name": "Alasandikai / ಅಲಸಂದಿಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=166&VarCode=1&Date=DATEHERE&CommName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ&VarName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ"
+    },
+    {
+        "name": "Drum Stick / ನುಗ್ಗೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=168&VarCode=1&Date=DATEHERE&CommName=Drum Stick / ನುಗ್ಗೆಕಾಯಿ&VarName=Drumstick / ನುಗ್ಗೆಕಾಯಿ"
+    },
+    {
+        "name": "Drumstick / ನುಗ್ಗೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=168&VarCode=1&Date=DATEHERE&CommName=Drum Stick / ನುಗ್ಗೆಕಾಯಿ&VarName=Drumstick / ನುಗ್ಗೆಕಾಯಿ"
+    },
+    {
+        "name": "Chapparada Avare / ಚಪ್ಪರದವರೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=169&VarCode=1&Date=DATEHERE&CommName=Chapparada Avare / ಚಪ್ಪರದವರೆ&VarName=Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ"
+    },
+    {
+        "name": "Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ  (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=169&VarCode=1&Date=DATEHERE&CommName=Chapparada Avare / ಚಪ್ಪರದವರೆ&VarName=Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ"
+    },
+    {
+        "name": "Thogarikai / ತೊಗರಿಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=170&VarCode=1&Date=DATEHERE&CommName=Thogarikai / ತೊಗರಿಕಾಯಿ&VarName=Thogarikai / ತೊಗರಿಕಾಯಿ"
+    },
+    {
+        "name": "Thogarikai / ತೊಗರಿಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=170&VarCode=1&Date=DATEHERE&CommName=Thogarikai / ತೊಗರಿಕಾಯಿ&VarName=Thogarikai / ತೊಗರಿಕಾಯಿ"
+    },
+    {
+        "name": "Leafy Vegetables / ಸೊಪ್ಪುಗಳು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=171&VarCode=1&Date=DATEHERE&CommName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು&VarName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು"
+    },
+    {
+        "name": "Leafy Vegetables / ಸೊಪ್ಪುಗಳು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=171&VarCode=1&Date=DATEHERE&CommName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು&VarName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು"
+    },
+    {
+        "name": "Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=173&VarCode=1&Date=DATEHERE&CommName=Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ&VarName=Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ"
+    },
+    {
+        "name": "Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=173&VarCode=1&Date=DATEHERE&CommName=Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ&VarName=Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ"
+    },
+    {
+        "name": "Peas Wet / ಹಸಿ ಬಟಾಣಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=174&VarCode=1&Date=DATEHERE&CommName=Peas Wet / ಹಸಿ ಬಟಾಣಿ&VarName=Peas Wet / ಹಸಿ ಬಟಾಣಿ"
+    },
+    {
+        "name": "Peas Wet / ಹಸಿ ಬಟಾಣಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=174&VarCode=1&Date=DATEHERE&CommName=Peas Wet / ಹಸಿ ಬಟಾಣಿ&VarName=Peas Wet / ಹಸಿ ಬಟಾಣಿ"
+    },
+    {
+        "name": "Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=176&VarCode=1&Date=DATEHERE&CommName=Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ&VarName=Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ"
+    },
+    {
+        "name": "Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=176&VarCode=1&Date=DATEHERE&CommName=Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ&VarName=Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ"
+    },
+    {
+        "name": "Knool Khol / ನವಿಲುಕೋಸು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=177&VarCode=1&Date=DATEHERE&CommName=Knool Khol / ನವಿಲುಕೋಸು&VarName=Knool Khol / ನವಿಲುಕೋಸು"
+    },
+    {
+        "name": "Knool Khol / ನವಿಲುಕೋಸು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=177&VarCode=1&Date=DATEHERE&CommName=Knool Khol / ನವಿಲುಕೋಸು&VarName=Knool Khol / ನವಿಲುಕೋಸು"
+    },
+    {
+        "name": "Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=178&VarCode=1&Date=DATEHERE&CommName=Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ&VarName=Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ"
+    },
+    {
+        "name": "Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=178&VarCode=1&Date=DATEHERE&CommName=Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ&VarName=Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ"
+    },
+    {
+        "name": "Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=180&VarCode=1&Date=DATEHERE&CommName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು&VarName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು"
+    },
+    {
+        "name": "Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=180&VarCode=1&Date=DATEHERE&CommName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು&VarName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು"
+    },
+    {
+        "name": "Bunch Beans / ಗೋರಿಕಾಯಿ",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=224&VarCode=1&Date=DATEHERE&CommName=Bunch Beans / ಗೋರಿಕಾಯಿ&VarName=Bunch Beans / ಗೋರಿಕಾಯಿ"
+    },
+    {
+        "name": "Bunch Beans / ಗೋರಿಕಾಯಿ (*)",
+        "url": "MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=224&VarCode=1&Date=DATEHERE&CommName=Bunch Beans / ಗೋರಿಕಾಯಿ&VarName=Bunch Beans / ಗೋರಿಕಾಯಿ"
+    }
+]

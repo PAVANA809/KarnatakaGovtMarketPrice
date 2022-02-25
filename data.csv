@@ -1,0 +1,361 @@
+Name,URL
+Mexican / ಮೆಕ್ಸಿಕನ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=25&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Mexican / ಮೆಕ್ಸಿಕನ್
+Red / ಕೆಂಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=71&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Red / ಕೆಂಪು
+White / ಬಿಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=72&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=White / ಬಿಳಿ
+H.D. / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=73&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=H.D. / ಹೈಬ್ರಿಡ್
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=76&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Local / ಸ್ಥಳೀಯ
+Medium / ಸಾಧಾರಣ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=80&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Medium / ಸಾಧಾರಣ
+Mill Wheat / ಗಿರಣಿ ಗೋಧಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=82&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Mill Wheat / ಗಿರಣಿ ಗೋಧಿ
+Sharabathi / ಶರಬತಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=84&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Sharabathi / ಶರಬತಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=1&VarCode=999&Date=DATEHERE&CommName=Wheat / ಗೋಧಿ&VarName=Other / ಇತರೆ
+Paddy / ಭತ್ತ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=2&VarCode=1&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy / ಭತ್ತ-1
+Paddy / ಭತ್ತ-1 (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=1&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy / ಭತ್ತ-1
+I.R. 64 / ಐ.ಆರ್.64 (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=12&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=I.R. 64 / ಐ.ಆರ್.64
+Sanna Bhatta / ಸಣ್ಣ ಭತ್ತ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=61&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sanna Bhatta / ಸಣ್ಣ ಭತ್ತ
+Paddy Sona / ಭತ್ತ ಸೋನ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=62&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy Sona / ಭತ್ತ ಸೋನ
+Sona Mahsuri / ಸೋನ ಮಸೂರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=74&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Mahsuri / ಸೋನ ಮಸೂರಿ
+Paddy Medium Variety / ಸಾಧಾರಣ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=117&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy Medium Variety / ಸಾಧಾರಣ
+Sona Masuri Old  / ಹಳೇ ಸೋನ ಮಸೂರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=250&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Masuri Old  / ಹಳೇ ಸೋನ ಮಸೂರಿ
+Sona Masuri New / ಹೊಸ ಸೋನ ಮಸೂರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=251&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Sona Masuri New / ಹೊಸ ಸೋನ ಮಸೂರಿ
+Paddy RNR New / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹೊಸದು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=302&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy RNR New / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹೊಸದು
+Paddy RNR Old / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹಳೆಯದು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=2&VarCode=303&Date=DATEHERE&CommName=Paddy / ಭತ್ತ&VarName=Paddy RNR Old / ಭತ್ತದ ಆರ್ಎನ್ಆರ್ ಹಳೆಯದು
+Rice / ಅಕ್ಕಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=3&VarCode=43&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Coarse / ದಪ್ಪ
+Coarse / ದಪ್ಪ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=43&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Coarse / ದಪ್ಪ
+CR 1009 (Coarse) Boiled / ಸಿ.ಆರ್.1009 (ಸಾಧಾರಣ ) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=45&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=CR 1009 (Coarse) Boiled / ಸಿ.ಆರ್.1009 (ಸಾಧಾರಣ )
+Fine / ಉತ್ತಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=71&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Fine / ಉತ್ತಮ
+Medium / ಮಧ್ಯಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=121&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Medium / ಮಧ್ಯಮ
+I. R. - 64 / ಐ.ಆರ್.64 (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=156&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=I. R. - 64 / ಐ.ಆರ್.64
+Sona / ಸೋನ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=197&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Sona / ಸೋನ
+Kattasambar / ಕಟ್ಟಾ ಸಾಂಬಾರ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=245&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Kattasambar / ಕಟ್ಟಾ ಸಾಂಬಾರ್
+Broken Rice / ನುಚ್ಚಕ್ಕಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=247&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Broken Rice / ನುಚ್ಚಕ್ಕಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=3&VarCode=999&Date=DATEHERE&CommName=Rice / ಅಕ್ಕಿ&VarName=Other / ಇತರೆ
+Maize / ಮೆಕ್ಕೆಜೋಳ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=4&VarCode=8&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ
+Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=8&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Hybrid/Local / ಹೈಬ್ರಿಡ್ ಸ್ಥಳೀಯ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=9&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Local / ಸ್ಥಳೀಯ
+Yellow / ಹಳದಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=18&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Yellow / ಹಳದಿ
+Sweet Corn (For Biscuits) / ಸ್ವೀಟ್ ಕಾರನ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=4&VarCode=36&Date=DATEHERE&CommName=Maize / ಮೆಕ್ಕೆಜೋಳ&VarName=Sweet Corn (For Biscuits) / ಸ್ವೀಟ್ ಕಾರನ್
+Jowar / ಜೋಳ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=5&VarCode=2&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar ( White) / ಜೋಳ ಬಿಳಿ
+Jowar ( White) / ಜೋಳ ಬಿಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=2&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar ( White) / ಜೋಳ ಬಿಳಿ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=4&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Local / ಸ್ಥಳೀಯ
+Jowar Hybrid / ಹೈಬ್ರಿಡ್ ಜೋಳ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=7&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Jowar Hybrid / ಹೈಬ್ರಿಡ್ ಜೋಳ
+Hybrid / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=5&VarCode=19&Date=DATEHERE&CommName=Jowar / ಜೋಳ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Bajra / ಸಜ್ಜೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=28&VarCode=8&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Hybrid / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=8&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=10&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Local / ಸ್ಥಳೀಯ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=28&VarCode=999&Date=DATEHERE&CommName=Bajra / ಸಜ್ಜೆ&VarName=Other / ಇತರೆ
+Ragi / ರಾಗಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=30&VarCode=1&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Fine / ಉತ್ತಮ
+Fine / ಉತ್ತಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=1&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Fine / ಉತ್ತಮ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=2&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Local / ಸ್ಥಳೀಯ
+Red / ಕೆಂಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=3&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Red / ಕೆಂಪು
+Hybrid / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=30&VarCode=4&Date=DATEHERE&CommName=Ragi / ರಾಗಿ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Navane / ನವಣೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=121&VarCode=1&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್
+Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=121&VarCode=1&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Navane Hybrid / ನವಣೆ ಹೈಬ್ರಿಡ್
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=121&VarCode=999&Date=DATEHERE&CommName=Navane / ನವಣೆ&VarName=Other / ಇತರೆ
+Same/Savi / ಸಾಮೆ/ಸಾವಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=122&VarCode=1&Date=DATEHERE&CommName=Same/Savi / ಸಾಮೆ/ಸಾವಿ&VarName=Same/Savi Local / ಸಾಮೆ / ಸಾವಿ
+Same/Savi Local / ಸಾಮೆ / ಸಾವಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=122&VarCode=1&Date=DATEHERE&CommName=Same/Savi / ಸಾಮೆ/ಸಾವಿ&VarName=Same/Savi Local / ಸಾಮೆ / ಸಾವಿ
+Sajje / ಸಜ್ಜೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=271&VarCode=1&Date=DATEHERE&CommName=Sajje / ಸಜ್ಜೆ&VarName=Sajje / ಸಜ್ಜೆ
+Sajje / ಸಜ್ಜೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=271&VarCode=1&Date=DATEHERE&CommName=Sajje / ಸಜ್ಜೆ&VarName=Sajje / ಸಜ್ಜೆ
+Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=278&VarCode=1&Date=DATEHERE&CommName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ&VarName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ
+Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=278&VarCode=1&Date=DATEHERE&CommName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ&VarName=Dry Grapes / ಒಣದ್ರಾಕ್ಷಿ
+Cotton / ಹತ್ತಿ ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=15&VarCode=5&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Suyodhar / ಸುಯೋಧರ್
+Suyodhar / ಸುಯೋಧರ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=5&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Suyodhar / ಸುಯೋಧರ್
+NH-44 COTTON / ಎನ್.ಹಚ್.44 ಹತ್ತಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=20&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=NH-44 COTTON / ಎನ್.ಹಚ್.44 ಹತ್ತಿ
+BANNI / ಬನಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=25&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=BANNI / ಬನಿ
+HYBRID-44 / ಹೈಬ್ರಿಡ್-44 (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=26&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=HYBRID-44 / ಹೈಬ್ರಿಡ್-44
+Jaydhar / ಜಯಧರ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=32&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=Jaydhar / ಜಯಧರ್
+D.C.H. / ಡಿ.ಸಿ.ಹೆಚ್.  (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=75&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=D.C.H. / ಡಿ.ಸಿ.ಹೆಚ್.
+ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=15&VarCode=79&Date=DATEHERE&CommName=Cotton / ಹತ್ತಿ&VarName=
+All Flowers / ಎಲ್ಲಾ ಹೂಗಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=227&VarCode=999&Date=DATEHERE&CommName=All Flowers / ಎಲ್ಲಾ ಹೂಗಳು&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=227&VarCode=999&Date=DATEHERE&CommName=All Flowers / ಎಲ್ಲಾ ಹೂಗಳು&VarName=Other / ಇತರೆ
+Rose / ಗುಲಾಬಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=228&VarCode=999&Date=DATEHERE&CommName=Rose / ಗುಲಾಬಿ&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=228&VarCode=999&Date=DATEHERE&CommName=Rose / ಗುಲಾಬಿ&VarName=Other / ಇತರೆ
+Soapnut / ಸೀಗೇಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=207&VarCode=2&Date=DATEHERE&CommName=Soapnut / ಸೀಗೇಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ
+Medium / ಮಧ್ಯಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=207&VarCode=2&Date=DATEHERE&CommName=Soapnut / ಸೀಗೇಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ
+Tamarind Seed / ಹುಣಸೇಬೀಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=208&VarCode=1&Date=DATEHERE&CommName=Tamarind Seed / ಹುಣಸೇಬೀಜ&VarName=Tamarind Seed / ಹುಣಸೆ ಬೀಜ
+Tamarind Seed / ಹುಣಸೆ ಬೀಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=208&VarCode=1&Date=DATEHERE&CommName=Tamarind Seed / ಹುಣಸೇಬೀಜ&VarName=Tamarind Seed / ಹುಣಸೆ ಬೀಜ
+Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=261&VarCode=1&Date=DATEHERE&CommName=Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು&VarName=Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು
+Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=261&VarCode=1&Date=DATEHERE&CommName=Tamarind Fruit / ಹುಣಸೇಹಣ್ಣು&VarName=Tamarind Fruit / ಹುಣಸೆಹಣ್ಣು
+Apple / ಸೇಬು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=17&VarCode=23&Date=DATEHERE&CommName=Apple / ಸೇಬು&VarName=Apple / ಸೇಬು
+Apple / ಸೇಬು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=17&VarCode=23&Date=DATEHERE&CommName=Apple / ಸೇಬು&VarName=Apple / ಸೇಬು
+Orange / ಕಿತ್ತಳೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=18&VarCode=6&Date=DATEHERE&CommName=Orange / ಕಿತ್ತಳೆ&VarName=Orange / ಕಿತ್ತಳೆ
+Orange / ಕಿತ್ತಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=18&VarCode=6&Date=DATEHERE&CommName=Orange / ಕಿತ್ತಳೆ&VarName=Orange / ಕಿತ್ತಳೆ
+Banana / ಬಾಳೆಹಣ್ಣು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=19&VarCode=9&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nendra Bale / ನೇಂದ್ರಬಾಳೆ
+Nendra Bale / ನೇಂದ್ರಬಾಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=9&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nendra Bale / ನೇಂದ್ರಬಾಳೆ
+Banana - Ripe / ಬನಾನ ರೈಪ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=10&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Banana - Ripe / ಬನಾನ ರೈಪ್
+Pachha Bale / ಪಚ್ಚಬಾಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=11&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Pachha Bale / ಪಚ್ಚಬಾಳೆ
+Elakki Bale / ಏಲಕ್ಕಿ ಬಾಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=12&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Elakki Bale / ಏಲಕ್ಕಿ ಬಾಳೆ
+Nauti Bale / ನಾಟಿ ಬಾಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=13&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Nauti Bale / ನಾಟಿ ಬಾಳೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=19&VarCode=999&Date=DATEHERE&CommName=Banana / ಬಾಳೆಹಣ್ಣು&VarName=Other / ಇತರೆ
+Pine Apple / ಅನಾನಸ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=21&VarCode=1&Date=DATEHERE&CommName=Pine Apple / ಅನಾನಸ್&VarName=Pine Apple / ಅನಾನಸ್
+Pine Apple / ಅನಾನಸ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=21&VarCode=1&Date=DATEHERE&CommName=Pine Apple / ಅನಾನಸ್&VarName=Pine Apple / ಅನಾನಸ್
+Grapes / ದ್ರಾಕ್ಷಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=22&VarCode=2&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Black / ಕಪ್ಪು
+Black / ಕಪ್ಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=2&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Black / ಕಪ್ಪು
+Green / ಹಸಿರು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=3&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Green / ಹಸಿರು
+White / ಬಿಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=4&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=White / ಬಿಳಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=22&VarCode=999&Date=DATEHERE&CommName=Grapes / ದ್ರಾಕ್ಷಿ&VarName=Other / ಇತರೆ
+Chikoos (Sapota) / ಸಪೋಟ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=71&VarCode=1&Date=DATEHERE&CommName=Chikoos (Sapota) / ಸಪೋಟ&VarName=Sapota / ಸಪೋಟ
+Sapota / ಸಪೋಟ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=71&VarCode=1&Date=DATEHERE&CommName=Chikoos (Sapota) / ಸಪೋಟ&VarName=Sapota / ಸಪೋಟ
+Papaya / ಪಪ್ಪಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=72&VarCode=1&Date=DATEHERE&CommName=Papaya / ಪಪ್ಪಾಯಿ&VarName=Papaya / ಪಪ್ಪಾಯಿ
+Papaya / ಪಪ್ಪಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=72&VarCode=1&Date=DATEHERE&CommName=Papaya / ಪಪ್ಪಾಯಿ&VarName=Papaya / ಪಪ್ಪಾಯಿ
+Water Melon / ಕಲ್ಲಂಗಡಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=73&VarCode=1&Date=DATEHERE&CommName=Water Melon / ಕಲ್ಲಂಗಡಿ&VarName=Water Melon / ಕಲ್ಲಂಗಡಿ
+Water Melon / ಕಲ್ಲಂಗಡಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=73&VarCode=1&Date=DATEHERE&CommName=Water Melon / ಕಲ್ಲಂಗಡಿ&VarName=Water Melon / ಕಲ್ಲಂಗಡಿ
+Mousambi / ಮೂಸಂಬಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=77&VarCode=1&Date=DATEHERE&CommName=Mousambi / ಮೂಸಂಬಿ&VarName=Mousambi / ಮೊಸಂಬಿ
+Mousambi / ಮೊಸಂಬಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=77&VarCode=1&Date=DATEHERE&CommName=Mousambi / ಮೂಸಂಬಿ&VarName=Mousambi / ಮೊಸಂಬಿ
+Guava / ಸೀಬೆಹಣ್ಣು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=185&VarCode=4&Date=DATEHERE&CommName=Guava / ಸೀಬೆಹಣ್ಣು&VarName=Guava / ಸೀಬೆಕಾಯಿ
+Guava / ಸೀಬೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=185&VarCode=4&Date=DATEHERE&CommName=Guava / ಸೀಬೆಹಣ್ಣು&VarName=Guava / ಸೀಬೆಕಾಯಿ
+Karbuja / ಕರಬೂಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=187&VarCode=1&Date=DATEHERE&CommName=Karbuja / ಕರಬೂಜ&VarName=Karbhuja / ಕರ್ಬೂಜ
+Karbhuja / ಕರ್ಬೂಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=187&VarCode=1&Date=DATEHERE&CommName=Karbuja / ಕರಬೂಜ&VarName=Karbhuja / ಕರ್ಬೂಜ
+Pomagranate / ದಾಳಿಂಬೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=190&VarCode=1&Date=DATEHERE&CommName=Pomagranate / ದಾಳಿಂಬೆ&VarName=Pomogranate / ದಾಳಿಂಬೆ
+Pomogranate / ದಾಳಿಂಬೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=190&VarCode=1&Date=DATEHERE&CommName=Pomagranate / ದಾಳಿಂಬೆ&VarName=Pomogranate / ದಾಳಿಂಬೆ
+Cow (For Each) / ಹಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=212&VarCode=1&Date=DATEHERE&CommName=Cow (For Each) / ಹಸು&VarName=Cow / ಆಕಳು
+Cow / ಆಕಳು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=212&VarCode=1&Date=DATEHERE&CommName=Cow (For Each) / ಹಸು&VarName=Cow / ಆಕಳು
+Ox (For Each) / ಎತ್ತು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=213&VarCode=1&Date=DATEHERE&CommName=Ox (For Each) / ಎತ್ತು&VarName=Ox / ಎತ್ತು
+Ox / ಎತ್ತು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=213&VarCode=1&Date=DATEHERE&CommName=Ox (For Each) / ಎತ್ತು&VarName=Ox / ಎತ್ತು
+Bull (For Each) / ಹೋರಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=214&VarCode=1&Date=DATEHERE&CommName=Bull (For Each) / ಹೋರಿ&VarName=Bull / ಹೋರಿ
+Bull / ಹೋರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=214&VarCode=1&Date=DATEHERE&CommName=Bull (For Each) / ಹೋರಿ&VarName=Bull / ಹೋರಿ
+He Baffalo (For Each) / ಕೋಣ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=216&VarCode=1&Date=DATEHERE&CommName=He Baffalo (For Each) / ಕೋಣ&VarName=He Baffelo / ಕೋಣ
+He Baffelo / ಕೋಣ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=216&VarCode=1&Date=DATEHERE&CommName=He Baffalo (For Each) / ಕೋಣ&VarName=He Baffelo / ಕೋಣ
+She Baffalo (For Each) / ಎಮ್ಮೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=217&VarCode=1&Date=DATEHERE&CommName=She Baffalo (For Each) / ಎಮ್ಮೆ&VarName=She Baffelo / ಎಮ್ಮೆ
+She Baffelo / ಎಮ್ಮೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=217&VarCode=1&Date=DATEHERE&CommName=She Baffalo (For Each) / ಎಮ್ಮೆ&VarName=She Baffelo / ಎಮ್ಮೆ
+Sheep (For Each) / ಕುರಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=218&VarCode=1&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Small / ಕುರಿ ಚಿಕ್ಕದು
+Sheep Small / ಕುರಿ ಚಿಕ್ಕದು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=1&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Small / ಕುರಿ ಚಿಕ್ಕದು
+Sheep Medium / ಕುರಿ ಮಧ್ಯಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=2&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Medium / ಕುರಿ ಮಧ್ಯಮ
+Sheep Large / ಕುರಿ ದೊಡ್ಡದು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=218&VarCode=3&Date=DATEHERE&CommName=Sheep (For Each) / ಕುರಿ&VarName=Sheep Large / ಕುರಿ ದೊಡ್ಡದು
+Goat (For Each) / ಮೇಕೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=219&VarCode=1&Date=DATEHERE&CommName=Goat (For Each) / ಮೇಕೆ&VarName=Goat / ಆಡು
+Goat / ಆಡು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=219&VarCode=1&Date=DATEHERE&CommName=Goat (For Each) / ಮೇಕೆ&VarName=Goat / ಆಡು
+Ram (For Each) / ಟಗರು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=282&VarCode=1&Date=DATEHERE&CommName=Ram (For Each) / ಟಗರು&VarName=Ram / ಟಗರು
+Ram / ಟಗರು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=282&VarCode=1&Date=DATEHERE&CommName=Ram (For Each) / ಟಗರು&VarName=Ram / ಟಗರು
+Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ) ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=10&VarCode=1&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Big (With Shell) / ಶೇಂಗಾ
+Big (With Shell) / ಶೇಂಗಾ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=1&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Big (With Shell) / ಶೇಂಗಾ
+Gungri (With Shell) / ಗುಂಗ್ರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=4&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Gungri (With Shell) / ಗುಂಗ್ರಿ
+Balli/Habbu / ಶೇಂಗಾ ಹಬ್ಬು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=15&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Balli/Habbu / ಶೇಂಗಾ ಹಬ್ಬು
+Gejje / ಶೇಂಗಾ ಗೆಜ್ಜೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=16&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Gejje / ಶೇಂಗಾ ಗೆಜ್ಜೆ
+Natte / ನಾಟಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=19&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Natte / ನಾಟಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=10&VarCode=999&Date=DATEHERE&CommName=Groundnut / ನೆಲಗಡಲೆ (ಶೇಂಗಾ)&VarName=Other / ಇತರೆ
+Sesamum / ಎಳ್ಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=11&VarCode=8&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=White / ಬಿಳಿ
+White / ಬಿಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=11&VarCode=8&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=White / ಬಿಳಿ
+Black / ಕಪ್ಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=11&VarCode=9&Date=DATEHERE&CommName=Sesamum / ಎಳ್ಳು&VarName=Black / ಕಪ್ಪು
+Mustard / ಸಾಸುವೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=12&VarCode=999&Date=DATEHERE&CommName=Mustard / ಸಾಸುವೆ&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=12&VarCode=999&Date=DATEHERE&CommName=Mustard / ಸಾಸುವೆ&VarName=Other / ಇತರೆ
+Soyabeen / ಸೋಯಾಬಿನ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=13&VarCode=5&Date=DATEHERE&CommName=Soyabeen / ಸೋಯಾಬಿನ್&VarName=Soyabeen / ಸೋಯಾಬಿನ್
+Soyabeen / ಸೋಯಾಬಿನ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=13&VarCode=5&Date=DATEHERE&CommName=Soyabeen / ಸೋಯಾಬಿನ್&VarName=Soyabeen / ಸೋಯಾಬಿನ್
+Sunflower / ಸೂರ್ಯ ಕಾಂತಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=14&VarCode=3&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Sunflower / ಸೂರ್ಯಪಾನ
+Sunflower / ಸೂರ್ಯಪಾನ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=3&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Sunflower / ಸೂರ್ಯಪಾನ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=11&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Local / ಸ್ಥಳೀಯ
+Hybrid / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=14&VarCode=12&Date=DATEHERE&CommName=Sunflower / ಸೂರ್ಯ ಕಾಂತಿ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Safflower / ಕುಸುಬೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=59&VarCode=4&Date=DATEHERE&CommName=Safflower / ಕುಸುಬೆ&VarName=Safflower / ಸಾಫ್ ಫ್ಲವರ್
+Safflower / ಸಾಫ್ ಫ್ಲವರ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=59&VarCode=4&Date=DATEHERE&CommName=Safflower / ಕುಸುಬೆ&VarName=Safflower / ಸಾಫ್ ಫ್ಲವರ್
+Linseed / ಅಗಸ ಬೀಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=67&VarCode=999&Date=DATEHERE&CommName=Linseed / ಅಗಸ ಬೀಜ&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=67&VarCode=999&Date=DATEHERE&CommName=Linseed / ಅಗಸ ಬೀಜ&VarName=Other / ಇತರೆ
+Gingelly / ಎಳ್ಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=118&VarCode=999&Date=DATEHERE&CommName=Gingelly / ಎಳ್ಳು&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=118&VarCode=999&Date=DATEHERE&CommName=Gingelly / ಎಳ್ಳು&VarName=Other / ಇತರೆ
+Castor Seed / ಹರಳು ಬೀಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=123&VarCode=1&Date=DATEHERE&CommName=Castor Seed / ಹರಳು ಬೀಜ&VarName=Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್
+Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=123&VarCode=1&Date=DATEHERE&CommName=Castor Seed / ಹರಳು ಬೀಜ&VarName=Castor seed / ಕ್ಯಾಸ್ಟೊರ್ ಸೀಡ್
+Honge Seed / ಹೊಂಗೆ ಬೀಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=124&VarCode=1&Date=DATEHERE&CommName=Honge Seed / ಹೊಂಗೆ ಬೀಜ&VarName=Honge Seed / ಹೊಂಗೆ ಬೀಜ
+Honge Seed / ಹೊಂಗೆ ಬೀಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=124&VarCode=1&Date=DATEHERE&CommName=Honge Seed / ಹೊಂಗೆ ಬೀಜ&VarName=Honge Seed / ಹೊಂಗೆ ಬೀಜ
+Copra / ಕೊಬ್ಬರಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=129&VarCode=1&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Copra / ಕೊಬ್ಬರಿ
+Copra / ಕೊಬ್ಬರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=1&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Copra / ಕೊಬ್ಬರಿ
+Small / ಸಣ್ಣ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=3&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Small / ಸಣ್ಣ
+Ball / ಬಾಲ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=5&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Ball / ಬಾಲ್
+Milling / ಮಿಲ್ಲಿಂಗ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=6&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Milling / ಮಿಲ್ಲಿಂಗ್
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=129&VarCode=999&Date=DATEHERE&CommName=Copra / ಕೊಬ್ಬರಿ&VarName=Other / ಇತರೆ
+Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=268&VarCode=1&Date=DATEHERE&CommName=Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ&VarName=Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ
+Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=268&VarCode=1&Date=DATEHERE&CommName=Groundnut Seed / ಕಡಲೆಕಾಯಿ ಬೀಜ&VarName=Ground Nut Seed / ಕಡ್ಲೆಕಾಯಿ ಬೀಜ
+Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=37&VarCode=1&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್
+IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=1&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=IISort  without Husk / ll ಸರಟ್ ವಿತೌಟ್ ಹಸ್ಕ್
+Grade- II / ಗ್ರೇಡ್-ll (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=3&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Grade- II / ಗ್ರೇಡ್-ll
+Coconut / ತೆಂಗಿನಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=6&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Coconut / ತೆಂಗಿನಕಾಯಿ
+Big / ದೊಡ್ಡದು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=7&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Big / ದೊಡ್ಡದು
+Medium / ಮಧ್ಯಮ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=37&VarCode=8&Date=DATEHERE&CommName=Coconut (Per 1000) / ತೆಂಗಿನಕಾಯಿ&VarName=Medium / ಮಧ್ಯಮ
+Jaggery / ಬೆಲ್ಲ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=151&VarCode=1&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Achhu / ಅಚ್ಚು
+Achhu / ಅಚ್ಚು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=1&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Achhu / ಅಚ್ಚು
+Mudde / ಮುದ್ದೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=2&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Mudde / ಮುದ್ದೆ
+Unde / ಉಂಡೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=3&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Unde / ಉಂಡೆ
+Yellow / ಹಳದಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=5&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Yellow / ಹಳದಿ
+Kurikatu / ಕುರಿಕಟ್ಟು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=7&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Kurikatu / ಕುರಿಕಟ್ಟು
+PENTI / ಪೆಂಟಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=16&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=PENTI / ಪೆಂಟಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=151&VarCode=999&Date=DATEHERE&CommName=Jaggery / ಬೆಲ್ಲ&VarName=Other / ಇತರೆ
+Tender Coconut / ಎಳನೀರು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=200&VarCode=1&Date=DATEHERE&CommName=Tender Coconut / ಎಳನೀರು&VarName=Tender Coconut / ಎಳನೀರು
+Tender Coconut / ಎಳನೀರು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=200&VarCode=1&Date=DATEHERE&CommName=Tender Coconut / ಎಳನೀರು&VarName=Tender Coconut / ಎಳನೀರು
+Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು),MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=296&VarCode=1&Date=DATEHERE&CommName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)&VarName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)
+Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=296&VarCode=1&Date=DATEHERE&CommName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)&VarName=Coco Brooms / ತೆಂಗಿನ ಕಡ್ಡಿ (ಸೀಗು)
+Arecanut / ಅಡಿಕೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=140&VarCode=3&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Sippegotu / ಸಿಪ್ಪೆಗೋಟು
+Sippegotu / ಸಿಪ್ಪೆಗೋಟು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=3&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Sippegotu / ಸಿಪ್ಪೆಗೋಟು
+Bilegotu / ಬಿಳೆ ಗೋಟು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=4&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Bilegotu / ಬಿಳೆ ಗೋಟು
+Api / ಅಪಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=5&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Api / ಅಪಿ
+Kempugotu / ಕೆಂಪುಗೋಟು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=6&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Kempugotu / ಕೆಂಪುಗೋಟು
+Coca / ಕೋಕ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=7&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Coca / ಕೋಕ
+Bette / ಬೆಟ್ಟೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=8&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Bette / ಬೆಟ್ಟೆ
+Saraku / ಸರಕು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=9&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Saraku / ಸರಕು
+Gorabalu / ಗೊರಬಲು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=10&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Gorabalu / ಗೊರಬಲು
+Tattibettee / ತಟ್ಟಿಬೆಟ್ಟೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=14&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Tattibettee / ತಟ್ಟಿಬೆಟ್ಟೆ
+Chippu / ಚಿಪ್ಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=15&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Chippu / ಚಿಪ್ಪು
+Rashi / ರಾಶಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=16&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Rashi / ರಾಶಿ
+Factory / ಫ್ಯಾಕ್ಟರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=18&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Factory / ಫ್ಯಾಕ್ಟರಿ
+New Variety / ನ್ಯೂ ವೆರೈಟಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=20&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=New Variety / ನ್ಯೂ ವೆರೈಟಿ
+EDI / ಈಡಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=21&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=EDI / ಈಡಿ
+Old Variety / ವೋಲ್ಡ್ ವೆರೈಟಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=24&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Old Variety / ವೋಲ್ಡ್ ವೆರೈಟಿ
+Chali / ಚಾಲಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=25&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Chali / ಚಾಲಿ
+Hosa Chali / ಹೊಸ ಚಾಲಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=28&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Hosa Chali / ಹೊಸ ಚಾಲಿ
+Hale Chali / ಹಳೆ ಚಾಲಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=29&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Hale Chali / ಹಳೆ ಚಾಲಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=140&VarCode=999&Date=DATEHERE&CommName=Arecanut / ಅಡಿಕೆ&VarName=Other / ಇತರೆ
+Betal Leaves / ವೀಳ್ಯೆದೆಲೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=143&VarCode=4&Date=DATEHERE&CommName=Betal Leaves / ವೀಳ್ಯೆದೆಲೆ&VarName=Local / ಸ್ಥಳೀಯ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=143&VarCode=4&Date=DATEHERE&CommName=Betal Leaves / ವೀಳ್ಯೆದೆಲೆ&VarName=Local / ಸ್ಥಳೀಯ
+Bengalgram / ಕಡಲೆಕಾಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=6&VarCode=1&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Average(Whole) / ಆವರೇಜ್ (ಇಡಿ)
+Average(Whole) / ಆವರೇಜ್ (ಇಡಿ) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=1&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Average(Whole) / ಆವರೇಜ್ (ಇಡಿ)
+Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=22&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=6&VarCode=999&Date=DATEHERE&CommName=Bengalgram / ಕಡಲೆಕಾಳು&VarName=Other / ಇತರೆ
+Blackgram / ಉದ್ದಿನಕಾಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=8&VarCode=10&Date=DATEHERE&CommName=Blackgram / ಉದ್ದಿನಕಾಳು&VarName=Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು
+Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=8&VarCode=10&Date=DATEHERE&CommName=Blackgram / ಉದ್ದಿನಕಾಳು&VarName=Black Gram (Whole) / ಉದ್ದಿನ ಕಾಳು
+Greengram / ಹೆಸರುಕಾಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=9&VarCode=1&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Green Gram (Whole) / ಹೆಸರುಕಾಳು
+Green Gram (Whole) / ಹೆಸರುಕಾಳು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=1&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Green Gram (Whole) / ಹೆಸರುಕಾಳು
+Local (Whole) / ಸ್ಥಳೀಯ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=4&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Local (Whole) / ಸ್ಥಳೀಯ (ವೋಲ್)
+Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=9&VarCode=17&Date=DATEHERE&CommName=Greengram / ಹೆಸರುಕಾಳು&VarName=Jawari/Local / ಜವರಿ / ಸ್ಥಳಿಯ
+Green Peas / ಬಟಾಣಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=50&VarCode=1&Date=DATEHERE&CommName=Green Peas / ಬಟಾಣಿ&VarName=Green Peas / ಹಸಿ ಬಟಾಣಿ
+Green Peas / ಹಸಿ ಬಟಾಣಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=50&VarCode=1&Date=DATEHERE&CommName=Green Peas / ಬಟಾಣಿ&VarName=Green Peas / ಹಸಿ ಬಟಾಣಿ
+Avare / ಅವರೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=91&VarCode=1&Date=DATEHERE&CommName=Avare / ಅವರೆ&VarName=Avare (Whole) / ಅವರೆ (ವೋಲ್)
+Avare (Whole) / ಅವರೆ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=91&VarCode=1&Date=DATEHERE&CommName=Avare / ಅವರೆ&VarName=Avare (Whole) / ಅವರೆ (ವೋಲ್)
+Cowpea / ಅಲಸಂದೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=92&VarCode=1&Date=DATEHERE&CommName=Cowpea / ಅಲಸಂದೆ&VarName=Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್)
+Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=92&VarCode=1&Date=DATEHERE&CommName=Cowpea / ಅಲಸಂದೆ&VarName=Cowpea (Whole) / ಕೌಪಿಯಾ (ವೋಲ್)
+Mataki / ಮಡಿಕೆ (ಮಟಕಿ),MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=93&VarCode=1&Date=DATEHERE&CommName=Mataki / ಮಡಿಕೆ (ಮಟಕಿ)&VarName=Mataki (W) / ಮಟಕಿ (ವೋಲ್)
+Mataki (W) / ಮಟಕಿ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=93&VarCode=1&Date=DATEHERE&CommName=Mataki / ಮಡಿಕೆ (ಮಟಕಿ)&VarName=Mataki (W) / ಮಟಕಿ (ವೋಲ್)
+Moath / ಮೋತ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=95&VarCode=1&Date=DATEHERE&CommName=Moath / ಮೋತ್&VarName=Moath (W) / ಮೋತ್ (ವೋಲ್)
+Moath (W) / ಮೋತ್ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=95&VarCode=1&Date=DATEHERE&CommName=Moath / ಮೋತ್&VarName=Moath (W) / ಮೋತ್ (ವೋಲ್)
+Horse Gram / ಹುರುಳಿ ಕಾಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=114&VarCode=1&Date=DATEHERE&CommName=Horse Gram / ಹುರುಳಿ ಕಾಳು&VarName=Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)
+Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)  (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=114&VarCode=1&Date=DATEHERE&CommName=Horse Gram / ಹುರುಳಿ ಕಾಳು&VarName=Horse gram (Whole) / ಹುರುಳಿಕಾಳು (ವೋಲ್)
+Tur Dal / ತೊಗರಿ ಬೇಳೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=260&VarCode=1&Date=DATEHERE&CommName=Tur Dal / ತೊಗರಿ ಬೇಳೆ&VarName=Tur Dal / ತೊಗರಿಬೇಳೆ
+Tur Dal / ತೊಗರಿಬೇಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=260&VarCode=1&Date=DATEHERE&CommName=Tur Dal / ತೊಗರಿ ಬೇಳೆ&VarName=Tur Dal / ತೊಗರಿಬೇಳೆ
+Bengal Gramdal / ಕಡಲೆಬೇಳೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=263&VarCode=1&Date=DATEHERE&CommName=Bengal Gramdal / ಕಡಲೆಬೇಳೆ&VarName=Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ
+Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=263&VarCode=1&Date=DATEHERE&CommName=Bengal Gramdal / ಕಡಲೆಬೇಳೆ&VarName=Bengal Gram Dal / ಕಡ್ಲೆಬೇಳೆ
+Black Gramdal / ಉದ್ದಿನಬೇಳೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=264&VarCode=1&Date=DATEHERE&CommName=Black Gramdal / ಉದ್ದಿನಬೇಳೆ&VarName=Black Gram Dal / ಉದ್ದಿನಬೇಳೆ
+Black Gram Dal / ಉದ್ದಿನಬೇಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=264&VarCode=1&Date=DATEHERE&CommName=Black Gramdal / ಉದ್ದಿನಬೇಳೆ&VarName=Black Gram Dal / ಉದ್ದಿನಬೇಳೆ
+Green Gramdal / ಹೆಸರುಬೇಳೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=265&VarCode=1&Date=DATEHERE&CommName=Green Gramdal / ಹೆಸರುಬೇಳೆ&VarName=Green Gram Dal / ಹೆಸರುಬೇಳೆ
+Green Gram Dal / ಹೆಸರುಬೇಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=265&VarCode=1&Date=DATEHERE&CommName=Green Gramdal / ಹೆಸರುಬೇಳೆ&VarName=Green Gram Dal / ಹೆಸರುಬೇಳೆ
+Tur / ತೊಗರಿ ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=275&VarCode=1&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Tur / ತೊಗರಿ
+Tur / ತೊಗರಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=1&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Tur / ತೊಗರಿ
+White / ಬಿಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=2&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=White / ಬಿಳಿ
+Red / ಕೆಂಪು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=275&VarCode=4&Date=DATEHERE&CommName=Tur / ತೊಗರಿ&VarName=Red / ಕೆಂಪು
+Alasande Gram / ಅಲಸಂದೆ ಕಾಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=281&VarCode=1&Date=DATEHERE&CommName=Alasande Gram / ಅಲಸಂದೆ ಕಾಳು&VarName=Alasande Gram / ಅಲಸಂದೆಕಾಳು
+Alasande Gram / ಅಲಸಂದೆಕಾಳು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=281&VarCode=1&Date=DATEHERE&CommName=Alasande Gram / ಅಲಸಂದೆ ಕಾಳು&VarName=Alasande Gram / ಅಲಸಂದೆಕಾಳು
+Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=295&VarCode=1&Date=DATEHERE&CommName=Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್&VarName=Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ
+Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=295&VarCode=1&Date=DATEHERE&CommName=Chennangidal / ಚೆನ್ನಂಗಿ ದಾಲ್&VarName=Chennagidal / ಚನ್ನಂಗಿಬೇಳೆ
+Garlic / ಬೆಳ್ಳುಳ್ಳಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=25&VarCode=3&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ
+Garlic / ಬೆಳ್ಳುಳ್ಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=25&VarCode=3&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=25&VarCode=999&Date=DATEHERE&CommName=Garlic / ಬೆಳ್ಳುಳ್ಳಿ&VarName=Other / ಇತರೆ
+Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=26&VarCode=999&Date=DATEHERE&CommName=Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=26&VarCode=999&Date=DATEHERE&CommName=Chilly Red / ಕೆಂಪು  ಮೆಣಸಿನಕಾಯಿ&VarName=Other / ಇತರೆ
+Ginger / ಶುಂಠಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=27&VarCode=1&Date=DATEHERE&CommName=Ginger / ಶುಂಠಿ&VarName=Dry / ಒಣ
+Dry / ಒಣ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=27&VarCode=1&Date=DATEHERE&CommName=Ginger / ಶುಂಠಿ&VarName=Dry / ಒಣ
+Pepper / ಮೆಣಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=38&VarCode=1&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Black Pepper / ಕರಿಮೆಣಸು
+Black Pepper / ಕರಿಮೆಣಸು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=38&VarCode=1&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Black Pepper / ಕರಿಮೆಣಸು
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=38&VarCode=999&Date=DATEHERE&CommName=Pepper / ಮೆಣಸು&VarName=Other / ಇತರೆ
+Turmeric / ಅರಿಶಿನ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=39&VarCode=10&Date=DATEHERE&CommName=Turmeric / ಅರಿಶಿನ&VarName=Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್
+Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=39&VarCode=10&Date=DATEHERE&CommName=Turmeric / ಅರಿಶಿನ&VarName=Turmeric Stick / ಟರ್ಮರಿಕ್ ಸ್ಟಿಕ್
+Cumminseed / ಕುಮಿನ್ ಸೀಡ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=42&VarCode=999&Date=DATEHERE&CommName=Cumminseed / ಕುಮಿನ್ ಸೀಡ್&VarName=Other / ಇತರೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=42&VarCode=999&Date=DATEHERE&CommName=Cumminseed / ಕುಮಿನ್ ಸೀಡ್&VarName=Other / ಇತರೆ
+Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=47&VarCode=1&Date=DATEHERE&CommName=Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ&VarName=Methiseeds / ಮೆಂತ್ಯ ಬೀಜ
+Methiseeds / ಮೆಂತ್ಯ ಬೀಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=47&VarCode=1&Date=DATEHERE&CommName=Methi Seeds / ಮೆಂತ್ಯ ಬೇಜ&VarName=Methiseeds / ಮೆಂತ್ಯ ಬೀಜ
+Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ),MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=108&VarCode=1&Date=DATEHERE&CommName=Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ)&VarName=Coriander Seed / ಧನಿಯಾ ಬೀಜ
+Coriander Seed / ಧನಿಯಾ ಬೀಜ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=108&VarCode=1&Date=DATEHERE&CommName=Coriander Seed / ಧನಿಯಾ (ಕೊತ್ತಂಬರಿ ಬೀಜ)&VarName=Coriander Seed / ಧನಿಯಾ ಬೀಜ
+Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=132&VarCode=1&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Byadgi / ಬ್ಯಾಡಗಿ
+Byadgi / ಬ್ಯಾಡಗಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=1&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Byadgi / ಬ್ಯಾಡಗಿ
+Dabbi / ಡಬ್ಬಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=7&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Dabbi / ಡಬ್ಬಿ
+Kaddi / ಕಡ್ಡಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=9&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Kaddi / ಕಡ್ಡಿ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=10&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Local / ಸ್ಥಳೀಯ
+Guntur / ಗುಂಟೂರು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=132&VarCode=12&Date=DATEHERE&CommName=Dry Chillies / ಒಣ ಮೆಣಸಿನಕಾಯಿ&VarName=Guntur / ಗುಂಟೂರು
+Onion / ಈರುಳ್ಳಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=23&VarCode=2&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.)
+Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=2&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bombay (U.P.) / ಬಾಂಬೆ (ಯು.ಪಿ.)
+Bellary Red / ಬಳ್ಳಾರಿ ಸಣ್ಣ  (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=9&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Bellary Red / ಬಳ್ಳಾರಿ ಸಣ್ಣ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=13&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Local / ಸ್ಥಳೀಯ
+Onion / ಈರುಳ್ಳಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=15&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Onion / ಈರುಳ್ಳಿ
+Puna / ಪೂನ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=16&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Puna / ಪೂನ
+Telagi / ತೆಲಗಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=17&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Telagi / ತೆಲಗಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=23&VarCode=999&Date=DATEHERE&CommName=Onion / ಈರುಳ್ಳಿ&VarName=Other / ಇತರೆ
+Potato / ಆಲೂಗಡ್ಡೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=24&VarCode=2&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Chandramukhi / ಚಂದ್ರಮುಖಿ
+Chandramukhi / ಚಂದ್ರಮುಖಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=2&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Chandramukhi / ಚಂದ್ರಮುಖಿ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=14&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Local / ಸ್ಥಳೀಯ
+Potato / ಆಲೂಗಡ್ಡೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=15&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Potato / ಆಲೂಗಡ್ಡೆ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=24&VarCode=999&Date=DATEHERE&CommName=Potato / ಆಲೂಗಡ್ಡೆ&VarName=Other / ಇತರೆ
+Cauliflower / ಹೂಕೋಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=34&VarCode=7&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Local / ಸ್ಥಳೀಯ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=34&VarCode=7&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Local / ಸ್ಥಳೀಯ
+Cauliflower / ಹೂಕೋಸು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=34&VarCode=8&Date=DATEHERE&CommName=Cauliflower / ಹೂಕೋಸು&VarName=Cauliflower / ಹೂಕೋಸು
+Brinjal / ಬದನೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=35&VarCode=1&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round / ರೌಂಡ್
+Round / ರೌಂಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=1&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round / ರೌಂಡ್
+Round/Long / ರೌಂಡ್ / ಲಾಂಗ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=2&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Round/Long / ರೌಂಡ್ / ಲಾಂಗ್
+Brinjal / ಬದನೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=9&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Brinjal / ಬದನೆಕಾಯಿ
+Other / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=35&VarCode=999&Date=DATEHERE&CommName=Brinjal / ಬದನೆಕಾಯಿ&VarName=Other / ಇತರೆ
+Coriander / ಧನಿಯಾ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=43&VarCode=2&Date=DATEHERE&CommName=Coriander / ಧನಿಯಾ&VarName=Local / ಸ್ಥಳೀಯ
+Local / ಸ್ಥಳೀಯ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=43&VarCode=2&Date=DATEHERE&CommName=Coriander / ಧನಿಯಾ&VarName=Local / ಸ್ಥಳೀಯ
+Tomato / ಟೊಮ್ಯಾಟೊ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=78&VarCode=4&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Hybrid / ಹೈಬ್ರಿಡ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=78&VarCode=4&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Hybrid / ಹೈಬ್ರಿಡ್
+Tomato / ಟೊಮ್ಯೂಟೊ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=78&VarCode=5&Date=DATEHERE&CommName=Tomato / ಟೊಮ್ಯಾಟೊ&VarName=Tomato / ಟೊಮ್ಯೂಟೊ
+Bitter Gourd / ಹಾಗಲಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=81&VarCode=1&Date=DATEHERE&CommName=Bitter Gourd / ಹಾಗಲಕಾಯಿ&VarName=Bitter Gourd / ಹಾಗಲಕಾಯಿ
+Bitter Gourd / ಹಾಗಲಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=81&VarCode=1&Date=DATEHERE&CommName=Bitter Gourd / ಹಾಗಲಕಾಯಿ&VarName=Bitter Gourd / ಹಾಗಲಕಾಯಿ
+Bottle Gourd / ಸೋರೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=82&VarCode=1&Date=DATEHERE&CommName=Bottle Gourd / ಸೋರೆಕಾಯಿ&VarName=Bottle Gourd / ಸೋರೆಕಾಯಿ
+Bottle Gourd / ಸೋರೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=82&VarCode=1&Date=DATEHERE&CommName=Bottle Gourd / ಸೋರೆಕಾಯಿ&VarName=Bottle Gourd / ಸೋರೆಕಾಯಿ
+Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=83&VarCode=2&Date=DATEHERE&CommName=Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=Ashgourd / ಬೂದುಕುಂಬಳ
+Ashgourd / ಬೂದುಕುಂಬಳ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=83&VarCode=2&Date=DATEHERE&CommName=Ash Gourd / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=Ashgourd / ಬೂದುಕುಂಬಳ
+Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=87&VarCode=1&Date=DATEHERE&CommName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ&VarName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ
+Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=87&VarCode=1&Date=DATEHERE&CommName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ&VarName=Green Chilly / ಹಸಿರು ಮೆಣಸಿನಕಾಯಿ
+Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=88&VarCode=1&Date=DATEHERE&CommName=Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ&VarName=Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ
+Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=88&VarCode=1&Date=DATEHERE&CommName=Chilly Capsicum / ಬಜ್ಜಿ ಮೆಣಸಿನಕಾಯಿ&VarName=Chilly Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ
+Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=89&VarCode=1&Date=DATEHERE&CommName=Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ&VarName=Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ
+Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=89&VarCode=1&Date=DATEHERE&CommName=Cowpea (Veg) / ಅಲಸಂದೆಕಾಯಿ&VarName=Cowpea (Veg) / ಅಲಸಂದಿಕಾಯಿ
+Banana Green / ಬಾಳೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=90&VarCode=1&Date=DATEHERE&CommName=Banana Green / ಬಾಳೆಕಾಯಿ&VarName=Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ
+Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=90&VarCode=1&Date=DATEHERE&CommName=Banana Green / ಬಾಳೆಕಾಯಿ&VarName=Banana - Green (Balekai) / ಬಾಳೇಕಾಯಿ
+Beans / ಹುರುಳಿಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=94&VarCode=1&Date=DATEHERE&CommName=Beans / ಹುರುಳಿಕಾಯಿ&VarName=Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್)
+Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=94&VarCode=1&Date=DATEHERE&CommName=Beans / ಹುರುಳಿಕಾಯಿ&VarName=Beans (Whole) / ಬೀನ್ಸ್ (ವೋಲ್)
+Green Ginger / ಹಸಿ ಶುಂಠಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=103&VarCode=1&Date=DATEHERE&CommName=Green Ginger / ಹಸಿ ಶುಂಠಿ&VarName=Green Ginger / ಹಸಿ ಶುಂಠಿ
+Green Ginger / ಹಸಿ ಶುಂಠಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=103&VarCode=1&Date=DATEHERE&CommName=Green Ginger / ಹಸಿ ಶುಂಠಿ&VarName=Green Ginger / ಹಸಿ ಶುಂಠಿ
+Sweet Potato / ಸಿಹಿ ಗೆಣಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=152&VarCode=3&Date=DATEHERE&CommName=Sweet Potato / ಸಿಹಿ ಗೆಣಸು&VarName=Sweet Potato / ಗೆಣಸು
+Sweet Potato / ಗೆಣಸು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=152&VarCode=3&Date=DATEHERE&CommName=Sweet Potato / ಸಿಹಿ ಗೆಣಸು&VarName=Sweet Potato / ಗೆಣಸು
+Carrot / ಕ್ಯಾರೆಟ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=153&VarCode=1&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Pusakesar / ಪುಸಕೇಸರ್
+Pusakesar / ಪುಸಕೇಸರ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=1&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Pusakesar / ಪುಸಕೇಸರ್
+Carrot / ಕ್ಯಾರೆಟ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=2&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Carrot / ಕ್ಯಾರೆಟ್
+Others / ಇತರೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=153&VarCode=999&Date=DATEHERE&CommName=Carrot / ಕ್ಯಾರೆಟ್&VarName=Others / ಇತರೆ
+Cabbage / ಎಲೆಕೋಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=154&VarCode=1&Date=DATEHERE&CommName=Cabbage / ಎಲೆಕೋಸು&VarName=Cabbage / ಎಲೆಕೋಸು
+Cabbage / ಎಲೆಕೋಸು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=154&VarCode=1&Date=DATEHERE&CommName=Cabbage / ಎಲೆಕೋಸು&VarName=Cabbage / ಎಲೆಕೋಸು
+Ladies Finger / ಬೆಂಡೇಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=155&VarCode=1&Date=DATEHERE&CommName=Ladies Finger / ಬೆಂಡೇಕಾಯಿ&VarName=Ladies Finger / ಬೆಂಡೆಕಾಯಿ
+Ladies Finger / ಬೆಂಡೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=155&VarCode=1&Date=DATEHERE&CommName=Ladies Finger / ಬೆಂಡೇಕಾಯಿ&VarName=Ladies Finger / ಬೆಂಡೆಕಾಯಿ
+Snakeguard / ಪಡವಲಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=156&VarCode=1&Date=DATEHERE&CommName=Snakeguard / ಪಡವಲಕಾಯಿ&VarName=Snakeguard / ಪಡವಲಕಾಯಿ
+Snakeguard / ಪಡವಲಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=156&VarCode=1&Date=DATEHERE&CommName=Snakeguard / ಪಡವಲಕಾಯಿ&VarName=Snakeguard / ಪಡವಲಕಾಯಿ
+Beetroot / ಬೀಟ್ರೂಟ್,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=157&VarCode=1&Date=DATEHERE&CommName=Beetroot / ಬೀಟ್ರೂಟ್&VarName=Beetroot / ಬೀಟ್ ರೂಟ್
+Beetroot / ಬೀಟ್ ರೂಟ್ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=157&VarCode=1&Date=DATEHERE&CommName=Beetroot / ಬೀಟ್ರೂಟ್&VarName=Beetroot / ಬೀಟ್ ರೂಟ್
+White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=158&VarCode=1&Date=DATEHERE&CommName=White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ
+White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=158&VarCode=1&Date=DATEHERE&CommName=White Pumpkin / ಬೂದುಕುಂಬಳ ಕಾಯಿ&VarName=White Pumpkin / ಬೂದು ಕುಂಬಳಕಾಯಿ
+Cucumbar / ಸೌತೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=159&VarCode=1&Date=DATEHERE&CommName=Cucumbar / ಸೌತೆಕಾಯಿ&VarName=Cucumbar / ಸೌತೆಕಾಯಿ
+Cucumbar / ಸೌತೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=159&VarCode=1&Date=DATEHERE&CommName=Cucumbar / ಸೌತೆಕಾಯಿ&VarName=Cucumbar / ಸೌತೆಕಾಯಿ
+Ridgeguard / ಹೀರೇಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=160&VarCode=1&Date=DATEHERE&CommName=Ridgeguard / ಹೀರೇಕಾಯಿ&VarName=Ridgeguard / ಹೀರೆಕಾಯಿ
+Ridgeguard / ಹೀರೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=160&VarCode=1&Date=DATEHERE&CommName=Ridgeguard / ಹೀರೇಕಾಯಿ&VarName=Ridgeguard / ಹೀರೆಕಾಯಿ
+Raddish / ಮುೂಲಂಗಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=161&VarCode=1&Date=DATEHERE&CommName=Raddish / ಮುೂಲಂಗಿ&VarName=Raddish / ಮೂಲಂಗಿ
+Raddish / ಮೂಲಂಗಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=161&VarCode=1&Date=DATEHERE&CommName=Raddish / ಮುೂಲಂಗಿ&VarName=Raddish / ಮೂಲಂಗಿ
+Thondekai / ತೊಂಡೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=162&VarCode=1&Date=DATEHERE&CommName=Thondekai / ತೊಂಡೆಕಾಯಿ&VarName=Thondekai / ತೊಂಡೇಕಾಯಿ
+Thondekai / ತೊಂಡೇಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=162&VarCode=1&Date=DATEHERE&CommName=Thondekai / ತೊಂಡೆಕಾಯಿ&VarName=Thondekai / ತೊಂಡೇಕಾಯಿ
+Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=164&VarCode=1&Date=DATEHERE&CommName=Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ&VarName=Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ
+Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=164&VarCode=1&Date=DATEHERE&CommName=Capsicum /  ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ&VarName=Capsicum / ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ
+Green Avare (W) / ಅವರೇಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=165&VarCode=3&Date=DATEHERE&CommName=Green Avare (W) / ಅವರೇಕಾಯಿ&VarName=Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ)
+Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ) (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=165&VarCode=3&Date=DATEHERE&CommName=Green Avare (W) / ಅವರೇಕಾಯಿ&VarName=Green Avare (W) / ಅವರೆಕಾಯಿ (ಇಡಿ)
+Alasandikai / ಅಲಸಂದಿಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=166&VarCode=1&Date=DATEHERE&CommName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ&VarName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ
+Alasandikai / ಅಲಸಂದಿಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=166&VarCode=1&Date=DATEHERE&CommName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ&VarName=Alasandikai / ಅಲಸಂದಿಕಾಯಿ
+Drum Stick / ನುಗ್ಗೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=168&VarCode=1&Date=DATEHERE&CommName=Drum Stick / ನುಗ್ಗೆಕಾಯಿ&VarName=Drumstick / ನುಗ್ಗೆಕಾಯಿ
+Drumstick / ನುಗ್ಗೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=168&VarCode=1&Date=DATEHERE&CommName=Drum Stick / ನುಗ್ಗೆಕಾಯಿ&VarName=Drumstick / ನುಗ್ಗೆಕಾಯಿ
+Chapparada Avare / ಚಪ್ಪರದವರೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=169&VarCode=1&Date=DATEHERE&CommName=Chapparada Avare / ಚಪ್ಪರದವರೆ&VarName=Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ
+Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ  (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=169&VarCode=1&Date=DATEHERE&CommName=Chapparada Avare / ಚಪ್ಪರದವರೆ&VarName=Chapparada Avarekai / ಚಪ್ಪರದ ಅವರೆಕಾಯಿ
+Thogarikai / ತೊಗರಿಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=170&VarCode=1&Date=DATEHERE&CommName=Thogarikai / ತೊಗರಿಕಾಯಿ&VarName=Thogarikai / ತೊಗರಿಕಾಯಿ
+Thogarikai / ತೊಗರಿಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=170&VarCode=1&Date=DATEHERE&CommName=Thogarikai / ತೊಗರಿಕಾಯಿ&VarName=Thogarikai / ತೊಗರಿಕಾಯಿ
+Leafy Vegetables / ಸೊಪ್ಪುಗಳು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=171&VarCode=1&Date=DATEHERE&CommName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು&VarName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು
+Leafy Vegetables / ಸೊಪ್ಪುಗಳು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=171&VarCode=1&Date=DATEHERE&CommName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು&VarName=Leafy Vegetables / ಸೊಪ್ಪುಗಳು
+Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=173&VarCode=1&Date=DATEHERE&CommName=Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ&VarName=Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ
+Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=173&VarCode=1&Date=DATEHERE&CommName=Sweet Pumpkin / ಸಿಹಿ ಕುಂಬಳಕಾಯಿ&VarName=Sweet Pumpkin / ಸಿಹಿಕುಂಬಳಕಾಯಿ
+Peas Wet / ಹಸಿ ಬಟಾಣಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=174&VarCode=1&Date=DATEHERE&CommName=Peas Wet / ಹಸಿ ಬಟಾಣಿ&VarName=Peas Wet / ಹಸಿ ಬಟಾಣಿ
+Peas Wet / ಹಸಿ ಬಟಾಣಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=174&VarCode=1&Date=DATEHERE&CommName=Peas Wet / ಹಸಿ ಬಟಾಣಿ&VarName=Peas Wet / ಹಸಿ ಬಟಾಣಿ
+Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=176&VarCode=1&Date=DATEHERE&CommName=Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ&VarName=Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ
+Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=176&VarCode=1&Date=DATEHERE&CommName=Seemebadanekai / ಸೀಮೆ ಬದನೆಕಾಯಿ&VarName=Seemebadanekai / ಸೀಮೆಬದನೆಕಾಯಿ
+Knool Khol / ನವಿಲುಕೋಸು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=177&VarCode=1&Date=DATEHERE&CommName=Knool Khol / ನವಿಲುಕೋಸು&VarName=Knool Khol / ನವಿಲುಕೋಸು
+Knool Khol / ನವಿಲುಕೋಸು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=177&VarCode=1&Date=DATEHERE&CommName=Knool Khol / ನವಿಲುಕೋಸು&VarName=Knool Khol / ನವಿಲುಕೋಸು
+Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=178&VarCode=1&Date=DATEHERE&CommName=Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ&VarName=Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ
+Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=178&VarCode=1&Date=DATEHERE&CommName=Suvarnagadde / ಸುವಣಗೆಡ್ಡೆ&VarName=Suvarnagadde / ಸುವರ್ಣ ಗೆಡ್ಡೆ
+Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=180&VarCode=1&Date=DATEHERE&CommName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು&VarName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು
+Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=180&VarCode=1&Date=DATEHERE&CommName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು&VarName=Lime (Lemon) / ನಿಂಬೆಹಣ್ಣು
+Bunch Beans / ಗೋರಿಕಾಯಿ,MainPage/DailyMrktPriceRep2.aspx?Rep=Com&CommCode=224&VarCode=1&Date=DATEHERE&CommName=Bunch Beans / ಗೋರಿಕಾಯಿ&VarName=Bunch Beans / ಗೋರಿಕಾಯಿ
+Bunch Beans / ಗೋರಿಕಾಯಿ (*),MainPage/DailyMrktPriceRep2.aspx?Rep=Var&CommCode=224&VarCode=1&Date=DATEHERE&CommName=Bunch Beans / ಗೋರಿಕಾಯಿ&VarName=Bunch Beans / ಗೋರಿಕಾಯಿ
